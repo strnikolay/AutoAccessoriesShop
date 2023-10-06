@@ -1,0 +1,24 @@
+.screen1-button {
+    /*width: ;
+    height: ;
+    position: absolute;
+    bottom: ;
+    border: solid 0.1rem #ffee94;
+    padding: ;*/
+}
+  
+.screen1-button-content {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /*background-image: url("");
+    background-size: cover;*/
+}
+  
+.screen1-button a{
+    color: #000;
+    /*font-size: calc(14px + 1 * (100vw/200));
+    font-weight: 800;
+    /*letter-spacing: 0.2vw;*/
+}
