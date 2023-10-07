@@ -1,5 +1,5 @@
 
-import Header from "../../components/header/header"
+import {Header} from "../../components/header/header"
 import MainFirstScreen from "./scr1/screen1";
 import MainSecondScreen from "./scr2/screen2";
 import MainThirdScreen from "./scr3/screen3";
