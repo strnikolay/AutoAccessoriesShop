@@ -1,0 +1,56 @@
+.screen {
+    background-size: 100% 100%;
+    height: 272px;
+    position: relative;
+    width: 1640px;
+    background-color: #0E0E0E;
+    display: flex;
+    justify-content: center;
+}
+
+.wrapper{
+    display: flex;
+}
+
+.screen .view {
+    background-size: 100% 100%;
+    height: 272px;
+    width: 282px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.screen .view:hover {
+    background-image: url(./img/hover.svg);
+    background-size: 100% 100%;
+    height: 272px;
+    /*-left: 256px;
+    position: absolute;
+    top: 0;*/
+    width: 282px;
+}
+
+.screen .text-wrapper {
+    color: #ffffff;
+    font-family: "Geometria-Medium", Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    height: 36px;
+    left: 28px;
+    letter-spacing: 0;
+    line-height: normal;
+    /*position: absolute;*/
+    text-align: center;
+    top: 163px;
+    width: 226px;
+}
+
+.screen .ico {
+    height: 79px;
+    /*left: 76px;
+    position: relative;
+    top: 56px;*/
+    width: 130px;
+}

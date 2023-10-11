@@ -6,31 +6,29 @@
   justify-content: center;
   position: relative;
   z-index: 3;
-  /*background-color: #e8e8e8 ;*/
+  background-color: #000 ;
   overflow-x: hidden;
 } 
 
 .screen-1-wraper{
-  width: 2400px;
   height: 100vh;
   max-height: 1600px;
   filter: drop-shadow(-15px 10px 15px #000);
 }
 
 .screen-1-background{
-  /*width: 100%;
-  height: 95vh;
-  max-height: 1600px;*/
+  width: 1640px;
+  height: 720px;
+  /*max-height: 1600px;*/
   position: relative ;
   display: flex;
   justify-content: center;
   align-items: center;
-  /*background-image: url("./img/background.jpg");
+  background-image: url("./img/back-1.jpg");
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: bottom 0 right 0;
-  clip-path: polygon(0 0,100% 0,100% calc(96% - 50px),50% 100%,0 calc(96% - 50px));*/
 }
+
 
 
 
