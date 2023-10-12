@@ -1,0 +1,546 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 58rem;
+}.elements-YSK {
+  width: 100%;
+  height: 100.6rem;
+  position: relative;
+}
+.elements-YSK .item--sUb {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 1.8rem;
+  top: 11rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.elements-YSK .hover-mZy {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 1.8rem;
+  top: 16.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.elements-YSK .item--WGf {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 5.8rem;
+  top: 11rem;
+  overflow: hidden;
+}
+.elements-YSK .item--WGf .ellipse-4-oFm {
+  width: 3.2rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 0.4rem;
+  top: 0.4rem;
+  background-color: #c53720;
+  border-radius: 1.6rem;
+}
+.elements-YSK .item--WGf .item-0-itX {
+  width: 0.9rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 1.55rem;
+  top: 0.95rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Geometria, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.elements-YSK .item--bxK {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 1.3rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.elements-YSK .hover-vzb {
+  width: 2.5414rem;
+  height: 2.6414rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 5.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.elements-YSK .button-TUj {
+  width: 16.8rem;
+  height: 4rem;
+  position: absolute;
+  left: 20.9rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Geometria, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.4rem #c53720;
+  box-sizing: border-box;
+}
+.elements-YSK .button-black-9MZ {
+  width: 16.8rem;
+  height: 4rem;
+  position: absolute;
+  left: 20.9rem;
+  top: 11rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #1c1c1c;
+  font-family: Geometria, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.4rem #1c1c1c;
+  box-sizing: border-box;
+}
+.elements-YSK .button-hover-QHV {
+  width: 16.8rem;
+  height: 4rem;
+  position: absolute;
+  left: 20.9rem;
+  top: 5.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Geometria, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.4rem #c53720;
+  box-sizing: border-box;
+  background-color: #c53720;
+}
+.elements-YSK .button-black-hover-sRy {
+  width: 16.8rem;
+  height: 4rem;
+  position: absolute;
+  left: 20.9rem;
+  top: 16.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Geometria, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.4rem #1c1c1c;
+  box-sizing: border-box;
+  background-color: #1c1c1c;
+}
+.elements-YSK .button2-MM9 {
+  width: 16.8rem;
+  height: 4rem;
+  position: absolute;
+  left: 41.2rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Geometria, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.4rem #ffffff;
+  box-sizing: border-box;
+}
+.elements-YSK .button-2-hover-SNb {
+  width: 16.8rem;
+  height: 4rem;
+  position: absolute;
+  left: 41.2rem;
+  top: 5.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #c53720;
+  font-family: Geometria, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.4rem #c53720;
+  box-sizing: border-box;
+}
+.elements-YSK .item--w4T {
+  width: 5.2rem;
+  height: 11.6rem;
+  position: absolute;
+  left: 20.9rem;
+  top: 28rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.elements-YSK .item--w4T .group-5-FL3 {
+  margin-bottom: 1.2rem;
+  box-sizing: border-box;
+  padding: 2rem 1.2rem;
+  width: 100%;
+  border: solid 0.4rem #c53720;
+  flex-shrink: 0;
+}
+.elements-YSK .item--w4T .group-5-FL3 .vector-22-BzP {
+  width: 2.8rem;
+  height: 1.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.elements-YSK .item--w4T .group-6-7NF {
+  opacity: 0.5;
+  box-sizing: border-box;
+  padding: 2rem 1.2rem;
+  width: 100%;
+  border: solid 0.4rem #c53720;
+  flex-shrink: 0;
+}
+.elements-YSK .item--w4T .group-6-7NF .vector-22-TS7 {
+  width: 2.8rem;
+  height: 1.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.elements-YSK .item--Bd1 {
+  box-sizing: border-box;
+  padding: 1.2rem 2rem;
+  width: 5.2rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 28.6rem;
+  top: 28rem;
+  border: solid 0.4rem #c53720;
+}
+.elements-YSK .item--Bd1 .vector-22-4wh {
+  width: 1.2rem;
+  height: 2.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.elements-YSK .item--crj {
+  opacity: 0.5;
+  box-sizing: border-box;
+  padding: 1.2rem 2rem;
+  width: 5.2rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 28.6rem;
+  top: 34.4rem;
+  border: solid 0.4rem #c53720;
+}
+.elements-YSK .item--crj .vector-22-72o {
+  width: 1.2rem;
+  height: 2.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.elements-YSK .ticker--DLj {
+  width: 3.6rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 39.4rem;
+  top: 28rem;
+  overflow: hidden;
+  border: solid 0.4rem #1c1c1c;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.elements-YSK .item--XMR {
+  width: 2rem;
+  height: 2rem;
+  position: absolute;
+  left: 39.4rem;
+  top: 36rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.elements-YSK .item-2-r8o {
+  width: 2rem;
+  height: 2rem;
+  position: absolute;
+  left: 42rem;
+  top: 36rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.elements-YSK .hover-BB5 {
+  width: 2rem;
+  height: 2rem;
+  position: absolute;
+  left: 42rem;
+  top: 38.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.elements-YSK .hover-hv7 {
+  width: 2rem;
+  height: 2rem;
+  position: absolute;
+  left: 39.4rem;
+  top: 38.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.elements-YSK .ticker--3DH {
+  box-sizing: border-box;
+  padding: 1.2rem;
+  width: 3.6rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 44.2rem;
+  top: 28rem;
+  overflow: hidden;
+  border: solid 0.4rem #1c1c1c;
+  background-color: #ffffff;
+}
+.elements-YSK .ticker--3DH .rectangle-61-m9H {
+  width: 100%;
+  height: 1.2rem;
+  background-color: #c53720;
+}
+.elements-YSK .item--6BZ {
+  box-sizing: border-box;
+  padding: 1rem 1rem 1rem 1rem;
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 1.8rem;
+  top: 23.5rem;
+  overflow: hidden;
+  border: solid 0.4rem #c53720;
+  background-color: #c53720;
+}
+.elements-YSK .item--6BZ .group-10-nq5 {
+  width: 2rem;
+  height: 2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.elements-YSK .item--uPu {
+  width: 38.8rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 0;
+  top: 62.1rem;
+  overflow: hidden;
+}
+.elements-YSK .item--uPu .item--D9h {
+  box-sizing: border-box;
+  padding: 2rem 2.4rem;
+  width: 5.2rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.4rem #a4a4a4;
+}
+.elements-YSK .item--uPu .item--D9h .vector-22-7Vy {
+  width: 0.4rem;
+  height: 1.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.elements-YSK .item--uPu .rectangle-63-EqV {
+  width: 5.2rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 14.4rem;
+  top: 0;
+  border: solid 0.4rem #a4a4a4;
+  box-sizing: border-box;
+}
+.elements-YSK .item--uPu .rectangle-61-NRu {
+  width: 5.2rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 19.2rem;
+  top: 0;
+  border: solid 0.4rem #a4a4a4;
+  box-sizing: border-box;
+}
+.elements-YSK .item--uPu .rectangle-62-JqM {
+  width: 5.2rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 24rem;
+  top: 0;
+  border: solid 0.4rem #a4a4a4;
+  box-sizing: border-box;
+}
+.elements-YSK .item--uPu .rectangle-60-SwZ {
+  width: 5.2rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 9.6rem;
+  top: 0;
+  border: solid 0.4rem #a4a4a4;
+  box-sizing: border-box;
+}
+.elements-YSK .item--uPu .rectangle-65-bJf {
+  width: 5.2rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 28.8rem;
+  top: 0;
+  border: solid 0.4rem #a4a4a4;
+  box-sizing: border-box;
+}
+.elements-YSK .item--uPu .rectangle-64-Xy1 {
+  width: 5.2rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 4.8rem;
+  top: 0;
+  border: solid 0.4rem #c53720;
+  box-sizing: border-box;
+  background-color: #c53720;
+}
+.elements-YSK .item--uPu .item--fZR {
+  box-sizing: border-box;
+  padding: 2rem 2.4rem;
+  width: 5.2rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 33.6rem;
+  top: 0;
+  border: solid 0.4rem #a4a4a4;
+}
+.elements-YSK .item--uPu .item--fZR .vector-22-NTq {
+  width: 0.4rem;
+  height: 1.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.elements-YSK .item--uPu .item-1-i1u {
+  width: 0.8rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 7rem;
+  top: 1.7rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Geometria, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.elements-YSK .item--uPu .item-10-QfR {
+  width: 1.5rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 16.25rem;
+  top: 1.7rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #a4a4a4;
+  font-family: Geometria, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.elements-YSK .item--uPu .item-11-vNs {
+  width: 1.5rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 21.05rem;
+  top: 1.7rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #a4a4a4;
+  font-family: Geometria, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.elements-YSK .item--uPu .item-12-E8f {
+  width: 1.5rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 25.85rem;
+  top: 1.7rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #a4a4a4;
+  font-family: Geometria, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.elements-YSK .item--uPu .item--LhV {
+  width: 1.3rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 11.55rem;
+  top: 1.7rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #a4a4a4;
+  font-family: Geometria, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.elements-YSK .item--uPu .item--3ro {
+  width: 1.3rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 30.75rem;
+  top: 1.7rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #a4a4a4;
+  font-family: Geometria, 'Source Sans Pro';
+  white-space: nowrap;
+}
