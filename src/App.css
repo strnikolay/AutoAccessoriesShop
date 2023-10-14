@@ -1,6 +1,9 @@
 .App {
   overflow-x: hidden;
-  
+  background-color: #000;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 /*#root{

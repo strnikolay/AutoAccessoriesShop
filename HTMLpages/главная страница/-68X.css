@@ -941,7 +941,14 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
-.item--hZq .footer-KL3 {
+
+
+
+
+
+
+
+/*.item--hZq .footer-KL3 {
   box-sizing: border-box;
   padding: 5.1rem 27.2rem 6.8rem 25.6rem;
   width: 100%;
@@ -1271,4 +1278,4 @@ body {
   border: solid 0.4rem #c53720;
   box-sizing: border-box;
   flex-shrink: 0;
-}
+}*/
