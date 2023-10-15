@@ -1,5 +1,6 @@
 import {createBrowserRouter, RouterProvider } from "react-router-dom";
 import './App.css';
+import "./images/Geometria-Bold.ttf"
 
 //import About from "./pages/about/about";
 import Main  from './pages/main/main';

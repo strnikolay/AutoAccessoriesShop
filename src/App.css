@@ -1,3 +1,10 @@
+@font-face {
+  font-family: "Geometria-bold"; 
+  src: local("Geometria-bold"),
+    url("./images/Geometria-Bold.ttf") format("truetype");
+}
+
+
 .App {
   overflow-x: hidden;
   background-color: #000;

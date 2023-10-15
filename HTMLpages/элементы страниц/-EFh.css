@@ -542,7 +542,11 @@ body {
   border: solid 0.4rem #c53720;
   box-sizing: border-box;
 }
-.item--hTm .item--EQw {
+
+
+
+/*перенесено в реакт*/
+/*.item--hTm .item--EQw {
   width: 164rem;
   height: 130rem;
   overflow: hidden;
@@ -732,4 +736,4 @@ body {
   border: solid 0.4rem #c53720;
   box-sizing: border-box;
   flex-shrink: 0;
-}
+}*/

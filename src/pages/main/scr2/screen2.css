@@ -5,6 +5,208 @@
   display: flex;
 }
 
+  .item--EQw {
+  max-width: 1640px;  
+  width: 164rem;
+  height: 130rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+  .item--EQw .item--yNX {
+  box-sizing: border-box;
+  padding: 6rem 16rem 5.6rem 16rem;
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  text-align: center;
+}
+  .item--EQw .item--yNX .item--He7 {
+  margin-bottom: 1rem;
+  max-width: 68.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  text-transform: uppercase;
+  color: #1c1c1c;
+  font-family: Geometria-bold;
+  flex-shrink: 0;
+  letter-spacing: 0.03rem;
+}
+  .item--EQw .item--yNX .rectangle-25-77M {
+  margin: 0rem 13.6rem 2.2rem 13.6rem;
+  width: calc(100% - 17.2rem);
+  height: 0.2rem;
+  background-color: #c53720;
+  flex-shrink: 0;
+}
+  .item--EQw .item--yNX .proauto--DRH {
+  margin-bottom: 2.3rem;
+  max-width: 56rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.27;
+  color: #1c1c1c;
+  font-family: Geometria-bold;
+  flex-shrink: 0;
+  letter-spacing: 0.05rem;
+}
+  .item--EQw .item--yNX .item--rDM {
+  margin-bottom: 3.6rem;
+  width: 100%;
+  height: 82.4rem;
+  display: flex;
+  column-gap: 2.4rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+  .item--EQw .item--yNX .item--rDM .auto-group-gjps-yHy {
+  width: 36rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+  .item--EQw .item--yNX .item--rDM .auto-group-gjps-yHy .item--imM {
+  margin-bottom: 2.4rem;
+  box-sizing: border-box;
+  padding: 18.6rem 7.2rem 6.8rem 7.2rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('./img/b2bkeyvisualshooting2892batteriewechsel2-1-bg.png');
+  background-color: rgba(0, 0, 0, 0.8000000119);
+  flex-shrink: 0;
+}
+  .item--EQw .item--yNX .item--rDM .auto-group-gjps-yHy .item--imM .item--1Ef {
+  margin-bottom: 6.3rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Geometria, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+  .item--EQw .item--yNX .item--rDM .auto-group-gjps-yHy .item--imM .button-hdH {
+  width: 100%;
+  height: 5.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Geometria, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.4rem #c53720;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+  .item--EQw .item--yNX .item--rDM .auto-group-gjps-yHy .item--m7M {
+  width: 100%;
+  height: 25rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('./img/qjwc9yzxxmqe1f6q75z2-1-bg.png');
+  flex-shrink: 0;
+  background-size: cover;  
+}
+  .item--EQw .item--yNX .item--rDM .auto-group-eb6p-eS3 {
+  width: 36rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+  .item--EQw .item--yNX .item--rDM .auto-group-eb6p-eS3 .item--zVu {
+  margin-bottom: 2.4rem;
+  width: 100%;
+  height: 40rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('./img/engine-maintenance-oil-change-1-bg.png');
+  flex-shrink: 0;
+}
+  .item--EQw .item--yNX .item--rDM .auto-group-eb6p-eS3 .item--639 {
+  width: 100%;
+  height: 40rem;
+  background-color: #c4c4c4;
+  flex-shrink: 0;
+}
+  .item--EQw .item--yNX .item--rDM .auto-group-ar2k-oTM {
+  width: 36rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+  .item--EQw .item--yNX .item--rDM .auto-group-ar2k-oTM .item--MUs {
+  margin-bottom: 2.4rem;
+  width: 100%;
+  height: 40rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('./img/ed9b84faa459632f559365b4185f3cf-1-bg.png');
+  flex-shrink: 0;
+}
+  .item--EQw .item--yNX .item--rDM .auto-group-ar2k-oTM .frame-48-T27 {
+  width: 100%;
+  height: 40rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+  .item--EQw .item--yNX .item--rDM .auto-group-ar2k-oTM .frame-48-T27 .full843imj5n-1-13d {
+  width: 37.1158rem;
+  height: 40.8548rem;
+  position: relative;
+  background-size: 165.773% 100%;
+  background-position: -12.206rem 0;
+  background-image: url('./img/full843imj5n-1.png');
+}
+  .item--EQw .item--yNX .button-TgK {
+  margin: 0 45.6rem;
+  width: calc(100% - 91.2rem);
+  height: 5.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #1c1c1c;
+  font-family: Geometria, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.4rem #c53720;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+
+
+
+
+
+
 @media screen and (max-width: 1920px) {
 
 }

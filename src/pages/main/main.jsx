@@ -14,7 +14,7 @@ return(
 <MainFirstScreen/>
 <MainSecondScreen/>
 <MainThirdScreen/>
-<MainFooter/>
+{/*<MainFooter/>*/}
 </>
 )}
 
