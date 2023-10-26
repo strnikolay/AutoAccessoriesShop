@@ -1,17 +1,19 @@
-import "./screen3.css"
+import "./screen4.css"
+import background from "./porsche-normal-1.png"
+import border from "./border.png"
 
-function MainThirdScreen () {
+function MainFourScreen () {
 
 return(
   
   <div class="screen3">
     <div class="item--an3">
     <div class="fon-HAf">
-      <img class="porsche-normal-1-qCB" src="./assets/porsche-normal-1.png"/>
+      <img class="porsche-normal-1-qCB" src={background}/>
       <div class="rectangle-51-MgK">
       </div>
       <div class="content-4qd">
-        <img class="rectangle-53-Psu" src="./assets/rectangle-53-rPq.png"/>
+        <img class="rectangle-53-Psu" src={border}/>
         <p class="pro-pro-20--jgs">
         Мы рады приветствовать вас на нашем сайте.
         <br/>
@@ -71,4 +73,4 @@ return(
 
 )}
 
-export default MainThirdScreen;   
+export default MainFourScreen;   
