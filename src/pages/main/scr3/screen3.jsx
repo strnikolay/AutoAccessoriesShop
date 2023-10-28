@@ -9,26 +9,44 @@ return(
     
 
   <div class="item--xaB">
-    <div class="item--omh">услуги</div>
-    <div class="rectangle-25-rrT"></div>
-    <p class="item--Uqu">Менеджеры компании с радостью ответят на ваши вопросы и помогут с выбором продукции.</p>
+
+    <div class="title">услуги</div>
+    <p class="title-subtext">Менеджеры компании с радостью ответят на ваши вопросы и помогут с выбором продукции.</p>
     
     <div class="auto-group-nq75-p6b">
 
-      <div class="group-42-PZ1">
-        <div class="frame-51-X9R">
-          <div class="frame-1-qvo">
-            <img class="subtract-xEj" src="./assets/subtract-R8B.png"/>
-          </div>
-        </div>
-        <div class="frame-50-few">
-          <img class="frame-1-PL3" src="./assets/frame-1.png"/>
-        </div>
-        <div class="item-1-j91">
-          <img class="subtract-dkB" src="./assets/subtract-KCj.png"/>
-        </div>
-        <img class="item--Z83" src="./assets/-j91.png"/>
+      <div class="left-img">
+        {/*<div class="frame one"></div>*/}
+        <div class="frame two" />
+        {/*<div class="frame three"></div>*/}
+        <div class="rect" />
       </div>
+
+          
+      <div class="frame-1">
+        <div class="auto-group-zkip-iwH">
+          <img class="icon-1-r1u" src="./assets/icon-1.png"/>
+        </div>
+        <div class="auto-group-nurb-BZy">
+          <div class="item--911">БЕСПЛАТНАЯ КОНСУЛЬТАЦИЯ СПЕЦИАЛИСТА</div>
+          <div class="item--oLT">Поможем с выбором аккумулятора, моторного масла и аксессуаров для автомобиля под ваши требования. </div>
+        </div>
+      </div>    
+
+
+
+
+
+
+      <div class="frame-2-1rX">
+        <img class="auto-group-vhwu-vyV" src="./assets/auto-group-vhwu.png"/>
+        <div class="auto-group-ytgb-4po">
+          <div class="item--cLX">ОБМЕН СТАРОГО АККУМУЛЯТОРА НА НОВЫЙ</div>
+          <div class="item--sGT">Принесите нам старую АКБ для легкового автомобиля, и мы предоставим Вам скидку на новый аккумулятор!</div>
+        </div>
+      </div>
+
+
       <div class="frame-3-r79">
         <img class="rectangle-48-ySf" src="./assets/rectangle-48.png"/>
         <div class="item--WBh">БЕСПЛАТНАЯ ДИАГНОСТИКА АККУМУЛЯТОРА</div>
@@ -53,22 +71,13 @@ return(
         </div>
         <img class="rectangle-35-5T5" src="./assets/rectangle-35.png"/>
       </div>
-      <div class="frame-2-1rX">
-        <img class="auto-group-vhwu-vyV" src="./assets/auto-group-vhwu.png"/>
-        <div class="auto-group-ytgb-4po">
-          <div class="item--cLX">ОБМЕН СТАРОГО АККУМУЛЯТОРА НА НОВЫЙ</div>
-          <div class="item--sGT">Принесите нам старую АКБ для легкового автомобиля, и мы предоставим Вам скидку на новый аккумулятор!</div>
-        </div>
-      </div>
-      <div class="frame-1-RBV">
-        <div class="auto-group-zkip-iwH">
-          <img class="icon-1-r1u" src="./assets/icon-1.png"/>
-        </div>
-        <div class="auto-group-nurb-BZy">
-          <div class="item--911">БЕСПЛАТНАЯ КОНСУЛЬТАЦИЯ СПЕЦИАЛИСТА</div>
-          <div class="item--oLT">Поможем с выбором аккумулятора, моторного масла и аксессуаров для автомобиля под ваши требования. </div>
-        </div>
-      </div>
+
+
+
+
+
+
+
       <img class="rectangle-49-9Hq" src="./assets/rectangle-49.png"/>
     </div>
 
