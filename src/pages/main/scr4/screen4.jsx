@@ -6,13 +6,13 @@ function MainFourScreen () {
 
 return(
   
-  <div class="screen4">
-    <div class="title">
-        <div class="title-text">о компании</div>
+  <div className="screen4">
+    <div className="title">
+        <div className="title-text">о компании</div>
     </div>
-      <div class="content">
-        <div class="text-border">
-          <p class="content-text">
+      <div className="content">
+        <div className="text-border">
+          <p className="content-text">
             Мы рады приветствовать вас на нашем сайте.
             <br/>
             Компания «PROавто» - это надежные, качественные аккумуляторы в широком ассортименте, разнообразные в по форме и характеристикам, а также качественные масла и автохимия именитых брендов.
@@ -23,16 +23,16 @@ return(
           </p>
         </div>
         <div className="button-wrapper">
-          <div class="item">
-            <div class="ico one"></div>
-            {/*<img class="vector-45-6zb" src="./assets/vector-45.png"/>*/}
+          <div className="item">
+            <div className="ico one"></div>
+            {/*<img className="vector-45-6zb" src="./assets/vector-45.png"/>*/}
             <p>Реквизиты</p>
           </div>
 
-          <div class="item">
+          <div className="item">
             <div className="ico two"></div>
-            {/*<img class="ico-1-7aF" src="./assets/ico-1.png"/>*/}
-            <p class="item--Raw">Задать вопрос</p>
+            {/*<img className="ico-1-7aF" src="./assets/ico-1.png"/>*/}
+            <p className="item--Raw">Задать вопрос</p>
           </div>
         </div>
 

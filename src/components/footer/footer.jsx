@@ -5,53 +5,53 @@ function MainFooter () {
 
 return(
 
-  <footer class="footer">
-    <div class="auto-group-eowm-dLj">
-      <img class="logo-NJK" src={logo}/>
-      <p class="pro-auto--7Fu">
+  <footer className="footer">
+    <div className="auto-group-eowm-dLj">
+      <img className="logo-NJK" src={logo}/>
+      <p className="pro-auto--7Fu">
       © 2019 PRO Auto. 
       <br/>
       Все права защищены.
       </p>
     </div>
-    <div class="auto-group-d6ab-oeX">
-      <div class="item--9M1">КОМПАНИЯ</div>
-      <p class="item--eoZ">О КОМПАНИИ</p>
-      <p class="item--mNP">ЛИЦЕНЗИИ</p>
-      <p class="item--Gpw">ПАРТНЕРЫ</p>
-      <p class="item--bsD">ОТЗЫВЫ КЛИЕНТОВ</p>
-      <p class="item--gtf">РЕКВИЗИТЫ</p>
-      <p class="item--1AF">ВАКАНСИИ</p>
+    <div className="auto-group-d6ab-oeX">
+      <div className="item--9M1">КОМПАНИЯ</div>
+      <p className="item--eoZ">О КОМПАНИИ</p>
+      <p className="item--mNP">ЛИЦЕНЗИИ</p>
+      <p className="item--Gpw">ПАРТНЕРЫ</p>
+      <p className="item--bsD">ОТЗЫВЫ КЛИЕНТОВ</p>
+      <p className="item--gtf">РЕКВИЗИТЫ</p>
+      <p className="item--1AF">ВАКАНСИИ</p>
     </div>
-    <div class="auto-group-p7b5-vo1">
-      <div class="item--TH9">КАТАЛОГ</div>
-      <p class="item--N9D">АККУМУЛЯТОРЫ</p>
-      <p class="item--g9u">АВТОМАСЛА</p>
-      <p class="item--oEX">АКСЕССУАРЫ</p>
-      <p class="item--j8B">АВТОХИМИЯ</p>
+    <div className="auto-group-p7b5-vo1">
+      <div className="item--TH9">КАТАЛОГ</div>
+      <p className="item--N9D">АККУМУЛЯТОРЫ</p>
+      <p className="item--g9u">АВТОМАСЛА</p>
+      <p className="item--oEX">АКСЕССУАРЫ</p>
+      <p className="item--j8B">АВТОХИМИЯ</p>
     </div>
-    <div class="auto-group-jmfd-FMR">
-      <div class="item--n6T">УСЛУГИ</div>
-      <p class="item--FVq">ДИАГНОСТИКА АККУМУЛЯТОРА</p>
-      <p class="item--jR1">ПРИЕМ АККУМУЛЯТОРОВ</p>
+    <div className="auto-group-jmfd-FMR">
+      <div className="item--n6T">УСЛУГИ</div>
+      <p className="item--FVq">ДИАГНОСТИКА АККУМУЛЯТОРА</p>
+      <p className="item--jR1">ПРИЕМ АККУМУЛЯТОРОВ</p>
     </div>
-    <div class="auto-group-suk9-dWP">
-      <div class="item--9jd">ИНФОРМАЦИЯ</div>
-      <p class="item--4rb">АКЦИИ</p>
-      <p class="item--Pdy">НОВОСТИ</p>
-      <p class="item--WyV">СТАТЬИ</p>
-      <p class="item--FRH">ВОПРОС - ОТВЕТ</p>
+    <div className="auto-group-suk9-dWP">
+      <div className="item--9jd">ИНФОРМАЦИЯ</div>
+      <p className="item--4rb">АКЦИИ</p>
+      <p className="item--Pdy">НОВОСТИ</p>
+      <p className="item--WyV">СТАТЬИ</p>
+      <p className="item--FRH">ВОПРОС - ОТВЕТ</p>
     </div>
-    <div class="auto-group-wwyr-mPd">
-      <img class="vector-Wc7" src="./assets/vector-mVh.png"/>
-      <img class="subtract-4Nj" src="./assets/subtract-q7V.png"/>
+    <div className="auto-group-wwyr-mPd">
+      <img className="vector-Wc7" src="./assets/vector-mVh.png"/>
+      <img className="subtract-4Nj" src="./assets/subtract-q7V.png"/>
     </div>
-    <div class="auto-group-zscb-znB">
-      <div class="auto-group-jpkd-8dV">
-        <p class="item-7-342-279-36-13-g9D">+7 (342) 279-36-13</p>
-        <p class="proauto59yandexru-PZR">proauto59@yandex.ru</p>
+    <div className="auto-group-zscb-znB">
+      <div className="auto-group-jpkd-8dV">
+        <p className="item-7-342-279-36-13-g9D">+7 (342) 279-36-13</p>
+        <p className="proauto59yandexru-PZR">proauto59@yandex.ru</p>
       </div>
-      <div class="button-irb">ЗАКАЗАТЬ ЗВОНОК</div>
+      <div className="button-irb">ЗАКАЗАТЬ ЗВОНОК</div>
     </div>
   </footer>
 

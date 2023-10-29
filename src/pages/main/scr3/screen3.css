@@ -1,30 +1,24 @@
 
 .screen3 {
-  /*height: ;
-  background-color: ;*/
   width: 100%;
   max-width: 1640px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  background-image: url(./img/topoboi-bg-DZ1.png);
 }
 
-.item--xaB {
+.screen3 * {
+  font-family: Geometria-bold;
+  color: #ffffff;
+}
+
+.screen3-wrapper {
   width: 100%;
-  display: grid;
-  background-size: 100% 100%;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-image: url('./img/topoboi-bg-DZ1.png');
   background: radial-gradient(24.05% 24.05% at 50% 56.14%, rgba(13, 13, 13, 0.4899999833) 0%, rgba(14, 14, 14, 0.6790000085) 100%);
-  flex-shrink: 0;
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin-top: 5.6rem;
 }
 
-.item--xaB .title {
+.screen3-wrapper .title {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -32,47 +26,39 @@
   font-weight: 700;
   line-height: 1.2575;
   text-transform: uppercase;
-  color: #ffffff;
-  font-family: Geometria-bold;
   white-space: nowrap;
   margin-bottom: 0.5rem;
   border-bottom: 6px solid #c53720;
   padding-bottom: 10px;
 }
-
-.item--xaB .title-subtext {
+.screen3-wrapper .title-subtext {
   max-width: 54.5rem;
   text-align: center;
   font-size: 1.8rem;
   font-weight: 500;
   line-height: 1.2575;
-  color: #ffffff;
-  font-family: Geometria-bold;
 }
 
 
- .item--xaB .auto-group-nq75-p6b {
+ .screen3-wrapper .content-wrapper {
   width: 100%;
   height: 72.6rem;
   position: relative;
+  display: flex;
+  flex-direction: row;
 }
 
 .left-img {
   width: 71rem;
   height: 67.6rem;
-  position: absolute;
-  left: 58.6rem;
-  top: 0;
+  position: relative;
 }
 
 .left-img .frame {
-  width: 48.9rem;
+  /*width: 48.9rem;*/
   height: 61.9rem;
-  position: absolute;
-  left: 5.8rem;
-  top: 2.4rem;
-  overflow: hidden;
-  background-size: contain;
+  /*overflow: hidden;*/
+  /*background-size: contain;*/
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -90,8 +76,8 @@
 }
 
 .left-img .rect {
-  width: 65.5525rem;
-  height: 64.5261rem;
+  width: 100%;
+  height: 100%;
   position: absolute;
   left: 0;
   top: 0;
@@ -106,45 +92,32 @@
 
 
 
-.item--xaB .auto-group-nq75-p6b .frame-1 {
-  box-sizing: border-box;
+.screen3-wrapper .content-wrapper .service-item {
   padding: 3.75rem 6.8rem 4rem 4rem;
-  width: 60.5rem;
+  width: 70rem;
   height: 20rem;
-  position: absolute;
-  left: 0;
-  top: 3.8rem;
   display: flex;
   align-items: center;
-  /*background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-image: url('./img/rectangle-47.png');*/
+  justify-content: space-around;
+  position: relative;
+  z-index: 1;
 }
- .item--xaB .auto-group-nq75-p6b .frame-1 .auto-group-zkip-iwH {
-  margin: 0.25rem 2.1rem 0rem 0rem;
-  box-sizing: border-box;
-  padding: 1.3rem 2.25rem 1.5rem 2.3rem;
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-image: url('./img/rectangle-6-zNj.png');
-  flex-shrink: 0;
-}
- .item--xaB .auto-group-nq75-p6b .frame-1 .auto-group-zkip-iwH .icon-1-r1u {
-  width: 7.85rem;
-  height: 9.2rem;
+
+ .screen3-wrapper .content-wrapper .service-item .icon {
+  width: 13rem;
+  height: 13rem;
   position: relative;
   object-fit: contain;
   vertical-align: top;
 }
- .item--xaB .auto-group-nq75-p6b .frame-1 .auto-group-nurb-BZy {
+ .screen3-wrapper .content-wrapper .service-item .service-text {
   margin-bottom: 0.35rem;
   display: flex;
+
   flex-direction: column;
   flex-shrink: 0;
 }
- .item--xaB .auto-group-nq75-p6b .frame-1 .auto-group-nurb-BZy .item--911 {
+ .screen3-wrapper .content-wrapper .service-item .service-text .service-title {
   margin-bottom: 1.7rem;
   max-width: 28.3rem;
   display: flex;
@@ -155,7 +128,7 @@
   font-family: Geometria, 'Source Sans Pro';
   flex-shrink: 0;
 }
- .item--xaB .auto-group-nq75-p6b .frame-1 .auto-group-nurb-BZy .item--oLT {
+ .screen3-wrapper .content-wrapper .service-item .service-text .service-text {
   max-width: 35.2rem;
   display: flex;
   font-size: 1.6rem;
@@ -171,221 +144,16 @@
 
 
 
-
-
-
-
-
- .item--xaB .auto-group-nq75-p6b .frame-2-1rX {
-  box-sizing: border-box;
-  padding: 3.75rem 6.9rem 4rem 4rem;
+.screen3-wrapper .content-wrapper .hover {
   width: 60.5rem;
   height: 20rem;
   position: absolute;
-  left: 0;
-  top: 23.8rem;
-  display: flex;
-  align-items: center;
-}
- .item--xaB .auto-group-nq75-p6b .frame-2-1rX .auto-group-vhwu-vyV {
-  margin: 0.25rem 2.1rem 0rem 0rem;
-  width: 12.4rem;
-  height: 12rem;
-  position: relative;
-  object-fit: contain;
-  vertical-align: top;
-  flex-shrink: 0;
-}
- .item--xaB .auto-group-nq75-p6b .frame-2-1rX .auto-group-ytgb-4po {
-  margin-bottom: 0.35rem;
-  display: flex;
-  flex-direction: column;
-  flex-shrink: 0;
-}
- .item--xaB .auto-group-nq75-p6b .frame-2-1rX .auto-group-ytgb-4po .item--cLX {
-  margin-bottom: 1.7rem;
-  max-width: 28.6rem;
-  display: flex;
-  font-size: 1.6rem;
-  font-weight: 700;
-  line-height: 1.2575;
-  color: #ffffff;
-  font-family: Geometria, 'Source Sans Pro';
-  flex-shrink: 0;
-}
- .item--xaB .auto-group-nq75-p6b .frame-2-1rX .auto-group-ytgb-4po .item--sGT {
-  max-width: 35.1rem;
-  display: flex;
-  font-size: 1.6rem;
-  font-weight: 500;
-  line-height: 1.2575;
-  color: #ffffff;
-  font-family: Geometria, 'Source Sans Pro';
-  flex-shrink: 0;
 }
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-.item--xaB .auto-group-nq75-p6b .frame-3-r79 {
-  width: 60.5rem;
-  height: 22rem;
-  position: absolute;
-  left: 0;
-  top: 44.4rem;
-}
- .item--xaB .auto-group-nq75-p6b .frame-3-r79 .rectangle-48-ySf {
-  width: 60.5rem;
-  height: 20rem;
-  position: absolute;
-  left: 0;
-  top: 2rem;
-  object-fit: contain;
-  vertical-align: top;
-}
- .item--xaB .auto-group-nq75-p6b .frame-3-r79 .item--WBh {
-  width: 28.1rem;
-  height: 4.1rem;
-  position: absolute;
-  left: 18.5rem;
-  top: 3.95rem;
-  display: flex;
-  font-size: 1.6rem;
-  font-weight: 700;
-  line-height: 1.2575;
-  color: #ffffff;
-  font-family: Geometria, 'Source Sans Pro';
-}
- .item--xaB .auto-group-nq75-p6b .frame-3-r79 .item--YPH {
-  width: 35.1rem;
-  height: 4.1rem;
-  position: absolute;
-  left: 18.5rem;
-  top: 10.55rem;
-  display: flex;
-  font-size: 1.6rem;
-  font-weight: 500;
-  line-height: 1.2575;
-  color: #ffffff;
-  font-family: Geometria, 'Source Sans Pro';
-}
- .item--xaB .auto-group-nq75-p6b .frame-3-r79 .icon3-Jmm {
-  width: 8.8rem;
-  height: 5.5rem;
-  position: absolute;
-  left: 6rem;
-  top: 7.4rem;
-  align-items: center;
-  display: flex;
-  flex-direction: column;
-}
- .item--xaB .auto-group-nq75-p6b .frame-3-r79 .icon3-Jmm .auto-group-2ufm-dJF {
-  margin: 0rem 0.8rem 0.3rem 0.8rem;
-  width: calc(100% - 1.6rem);
-  height: 4.8rem;
-  position: relative;
-  flex-shrink: 0;
-}
- .item--xaB .auto-group-nq75-p6b .frame-3-r79 .icon3-Jmm .auto-group-2ufm-dJF .rectangle-42-LTZ {
-  opacity: 0.5;
-  width: 0.4rem;
-  height: 1.7rem;
-  position: absolute;
-  left: 1.8rem;
-  top: 2.3rem;
-  background-color: rgba(255, 255, 255, 0.5);
-}
- .item--xaB .auto-group-nq75-p6b .frame-3-r79 .icon3-Jmm .auto-group-2ufm-dJF .rectangle-43-FKd {
-  opacity: 0.5;
-  width: 0.4rem;
-  height: 2.7rem;
-  position: absolute;
-  left: 2.6rem;
-  top: 1.3rem;
-  background-color: rgba(255, 255, 255, 0.5);
-}
- .item--xaB .auto-group-nq75-p6b .frame-3-r79 .icon3-Jmm .auto-group-2ufm-dJF .rectangle-44-ymR {
-  opacity: 0.5;
-  width: 0.4rem;
-  height: 2.1rem;
-  position: absolute;
-  left: 3.4rem;
-  top: 1.9rem;
-  background-color: rgba(255, 255, 255, 0.5);
-}
- .item--xaB .auto-group-nq75-p6b .frame-3-r79 .icon3-Jmm .auto-group-2ufm-dJF .rectangle-45-7cj {
-  opacity: 0.5;
-  width: 0.4rem;
-  height: 2.8rem;
-  position: absolute;
-  left: 4.2rem;
-  top: 1.2rem;
-  background-color: rgba(255, 255, 255, 0.5);
-}
- .item--xaB .auto-group-nq75-p6b .frame-3-r79 .icon3-Jmm .auto-group-2ufm-dJF .rectangle-46-TAo {
-  opacity: 0.5;
-  width: 0.4rem;
-  height: 3.2rem;
-  position: absolute;
-  left: 5rem;
-  top: 0.8rem;
-  background-color: rgba(255, 255, 255, 0.5);
-}
- .item--xaB .auto-group-nq75-p6b .frame-3-r79 .icon3-Jmm .auto-group-2ufm-dJF .rectangle-40-nis {
-  width: 7.2rem;
-  height: 4.8rem;
-  position: absolute;
-  left: 0;
-  top: 0;
-  border: solid 0.4rem #ffffff;
-  box-sizing: border-box;
-}
- .item--xaB .auto-group-nq75-p6b .frame-3-r79 .icon3-Jmm .rectangle-41-KTu {
-  width: 100%;
-  height: 0.4rem;
-  background-color: #ffffff;
-  flex-shrink: 0;
-}
- .item--xaB .auto-group-nq75-p6b .frame-3-r79 .rectangle-35-5T5 {
-  width: 12.4rem;
-  height: 12rem;
-  position: absolute;
-  left: 4rem;
-  top: 4rem;
-  object-fit: contain;
-  vertical-align: top;
-}
-
-
-
-
-
-.item--xaB .auto-group-nq75-p6b .rectangle-49-9Hq {
-  width: 60.5rem;
-  height: 20rem;
-  position: absolute;
-  left: 0;
-  top: 25.4rem;
-  object-fit: contain;
-  vertical-align: top;
-}
-
-
-
-
-.item--xaB .auto-group-nq75-p6b .button-98s {
+.screen3-wrapper .content-wrapper .button-98s {
   width: 23.6rem;
   height: 5.6rem;
   position: absolute;

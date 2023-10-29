@@ -5,32 +5,32 @@ function MainSecondScreen () {
 
 return(
 <>
-  {/*<div class="screen2">*/}
+  {/*<div className="screen2">*/}
 
-<div class="item--EQw">
-    <div class="item--yNX">
-      <div class="item--He7">
+<div className="item--EQw">
+    <div className="item--yNX">
+      <div className="item--He7">
       Автотовары: аксессуары, 
       <br/>
       расходники и многое другое
       </div>
-      <div class="rectangle-25-77M">
+      <div className="rectangle-25-77M">
       </div>
-      <p class="proauto--DRH">PROAuto - это специализированный интернет магазин востребованных товаров для автомобилей. </p>
-      <div class="item--rDM">
+      <p className="proauto--DRH">PROAuto - это специализированный интернет магазин востребованных товаров для автомобилей. </p>
+      <div className="item--rDM">
 
-          <div class="item imM">
-            {/*<p class="item--1Ef">АККУМУЛЯТОРЫ</p>
-            <div class="button-hdH">ЗАКАЗАТЬ ОНЛАЙН</div>*/}
+          <div className="item imM">
+            {/*<p className="item--1Ef">АККУМУЛЯТОРЫ</p>
+            <div className="button-hdH">ЗАКАЗАТЬ ОНЛАЙН</div>*/}
           </div>
-          <div class="item m7M"></div>
-          <div class="item zVu">
+          <div className="item m7M"></div>
+          <div className="item zVu">
           </div>
-          <div class="item a39">
+          <div className="item a39">
           </div>
-          <div class="item MUs">
+          <div className="item MUs">
           </div>
-          <div class="item T27">
+          <div className="item T27">
           </div>
       </div>
     </div>
