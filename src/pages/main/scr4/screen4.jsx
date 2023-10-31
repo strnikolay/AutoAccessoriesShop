@@ -1,6 +1,5 @@
 import "./screen4.css"
-import background from "./porsche-normal-1.png"
-import border from "./border.png"
+
 
 function MainFourScreen () {
 

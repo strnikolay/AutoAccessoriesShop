@@ -8,6 +8,7 @@ import MainFourScreen from "./scr4/screen4";
 import MainFooter from "../../components/footer/footer";
 import ScrollButton from "../../components/scrollto/scrollbutton";
 import MainSixScreen from "./scr6/screen6";
+import MainAboutScreen from "./scr6 copy/main-about-screen";
 
 
 function Main () {
@@ -15,13 +16,14 @@ function Main () {
 return(    
 <>
 <Header/>
-<MainFirstScreen/>
+<MainAboutScreen />
+{/*<MainFirstScreen/>
 <MainSecondScreen/>
 <MainThirdScreen/>
 <MainFourScreen />
 <MainSixScreen/>
 <MainFooter/>
-<ScrollButton/>
+<ScrollButton/>*/}
 </>
 )}
 
