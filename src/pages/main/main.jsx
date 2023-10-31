@@ -6,6 +6,7 @@ import MainThirdScreen from "./scr3/screen3";
 import MainFourScreen from "./scr4/screen4";
 
 import MainFooter from "../../components/footer/footer";
+import ScrollButton from "../../components/scrollto/scrollbutton";
 import MainSixScreen from "./scr6/screen6";
 
 
@@ -19,7 +20,8 @@ return(
 <MainThirdScreen/>
 <MainFourScreen />
 <MainSixScreen/>
-{/*<MainFooter/>*/}
+<MainFooter/>
+<ScrollButton/>
 </>
 )}
 
