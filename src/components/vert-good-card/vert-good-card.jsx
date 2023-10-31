@@ -1,5 +1,6 @@
 import "./vert-good-card.css"
 import magnum from "./magnum-60ah.png"
+import GoodCounter from "../good-counter/good-counter";
 
 function VertGoodCard() {
 return(
@@ -14,9 +15,7 @@ return(
   <p class="description">Цена действительна при сдаче старого аккумулятора аналогичной емкости в лом</p>
 
   <div class="action-wrapper">
-    <button class="button-increment">-</button>
-    <div class="item-count">00</div>
-    <button class="button-decrement">+</button>
+    <GoodCounter />
 
     <div class="add_to_bin">
       <div class="items-in-bin">3</div>
