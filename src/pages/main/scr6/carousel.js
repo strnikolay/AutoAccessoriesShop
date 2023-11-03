@@ -18,7 +18,7 @@ export default function Carousel({ children, width, unit }) {
     <>
         <div 
             className="parent" 
-            style={{width: `${width*3}${unit}`}}
+            style={{width: `${width*3+200}${unit}`}}
         >
             <button className="prev" onClick={handlePrev}/>
 

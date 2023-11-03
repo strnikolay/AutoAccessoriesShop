@@ -5,27 +5,27 @@ import GoodCounter from "../good-counter/good-counter";
 function VertGoodCard() {
 return(
 
-<div class=" card_wrapper">
-  <img class="item_image" src={magnum}/>
-  <div class="item_name">MAGNUM 60Ah</div>
-  <div class="price_wrapper">
-    <div class="old_price">2199 руб.</div>
-    <div class="new_price">2900 руб.</div>
+<div className=" card_wrapper">
+  <img className="item_image" src={magnum}/>
+  <div className="item_name">MAGNUM 60Ah</div>
+  <div className="price_wrapper">
+    <div className="old_price">2199 руб.</div>
+    <div className="new_price">2900 руб.</div>
   </div>
-  <p class="description">Цена действительна при сдаче старого аккумулятора аналогичной емкости в лом</p>
+  <p className="description">Цена действительна при сдаче старого аккумулятора аналогичной емкости в лом</p>
 
-  <div class="action-wrapper">
+  <div className="action-wrapper">
     <GoodCounter />
 
-    <div class="add_to_bin">
-      <div class="items-in-bin">3</div>
-      <img class="bin-icon" src="./group-2-kBZ.png"/>
+    <div className="add_to_bin">
+      <div className="items-in-bin">3</div>
+      <img className="bin-icon" src="./group-2-kBZ.png"/>
     </div>
 
   </div>
 
 
-  <button class="button-description">ПОДРОБНЕЕ</button>
+  <button className="button-description">ПОДРОБНЕЕ</button>
 </div>
 
 )}
