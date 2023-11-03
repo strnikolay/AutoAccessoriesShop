@@ -7,11 +7,11 @@ return(
   
   <div className="main-about-screen">
 
-    <div class="screen-wrapper">
-      <div class="title">о компании</div>
-      <div class="content-wrapper">
-        <img class="foto" src={foto}/>
-        <div class="text">
+    <div className="screen-wrapper">
+      <div className="title">о компании</div>
+      <div className="content-wrapper">
+        <img className="foto" src={foto}/>
+        <div className="text">
           <p>
           Машина плохо заводится? Аккумулятор вас подводит? Не проблема! Вам в 
           <br/>
