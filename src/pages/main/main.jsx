@@ -11,6 +11,7 @@ import ScrollButton from "../../components/scrollto/scrollbutton";
 import MainAboutScreen from "./scr7/main-about-screen";
 import MainSixScreen from "./scr6/screen6";
 import VertGoodCard from "../../components/vert-good-card/vert-good-card";
+import LeftCatalogMenu from "../../components/left-Catalog-Menu/left-Catalog-Menu";
 
 
 function Main () {
@@ -19,7 +20,7 @@ return(
 <>
 
 
-
+<LeftCatalogMenu/>
 
 {/*
 <MainSixScreen/>
