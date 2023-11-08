@@ -3,7 +3,8 @@ import './App.css';
 import "./images/Geometria-Bold.ttf"
 
 //import About from "./pages/about/about";
-import Main  from './pages/main/main';
+//import Main  from './pages/main/main';
+import Catalog from "./pages/catalog/catalog";
 //import ErrorPage from "./pages/404/404";
 
 
@@ -16,7 +17,8 @@ function App() {
   const router = createBrowserRouter([
     {
       path: "/",
-      element: <Main/>,
+      element:<Catalog/>
+      //element: <Main/>,
       //errorElement: <ErrorPage />,
     },
     /*{
