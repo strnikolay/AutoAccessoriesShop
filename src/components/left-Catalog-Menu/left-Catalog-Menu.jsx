@@ -5,16 +5,16 @@ import arrow from "./arrow.svg"
 import DB from "../../db"
 
 function LeftCatalogMenu () {
-  const [isActive, setIsActive] = React.useState("");
+  //const [isActive, setIsActive] = React.useState("");
 
-  React.useEffect( () =>{
+  /*React.useEffect( () =>{
     let loc = window.location.search
     if (loc === "?acum"){
       console.log("11")
       let status = "acum"
       setIsActive(status)
     }}, [isActive] 
-  )
+  )*/
 
 return(
   

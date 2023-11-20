@@ -10,7 +10,6 @@ import Carousel from './carousel';
 
 
 function MainSixScreen () {
-  
   /*const images = [
     <img key={part1} scr={part1} />,
     <img key={part2} scr={part2} />,
@@ -28,10 +27,6 @@ function MainSixScreen () {
   /*useEffect(() => {
     outImg.innerHTML =`<img src=${images[Img]}>`
   })*/
-
-
-
-
 
 return(
   
