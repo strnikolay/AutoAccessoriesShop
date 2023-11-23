@@ -4,12 +4,7 @@ import './carousel.css';
 import useTransition from './useTransition';
 
 export default function Carousel({ children, width, unit }) {
-  // here we extracted the carousel functionality into its own hook
-  const {
-    translate,
-    items,
-    setAction,
-  } = useTransition(width, children);
+  const {translate, items, setAction,} = useTransition(width, children);
 
   const handleNext = () => setAction('next');
   const handlePrev = () => setAction('prev');
