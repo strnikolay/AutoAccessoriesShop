@@ -26,9 +26,6 @@
     background-image: url(./img/hover.svg);
     background-size: 100% 100%;
     height: 272px;
-    /*-left: 256px;
-    position: absolute;
-    top: 0;*/
     width: 282px;
 }
 
@@ -41,7 +38,6 @@
     left: 28px;
     letter-spacing: 0;
     line-height: normal;
-    /*position: absolute;*/
     text-align: center;
     top: 163px;
     width: 226px;
@@ -49,8 +45,5 @@
 
 .screen .ico {
     height: 79px;
-    /*left: 76px;
-    position: relative;
-    top: 56px;*/
     width: 130px;
 }

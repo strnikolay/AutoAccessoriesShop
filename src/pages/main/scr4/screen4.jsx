@@ -24,13 +24,11 @@ return(
         <div className="button-wrapper">
           <div className="item">
             <div className="ico one"></div>
-            {/*<img className="vector-45-6zb" src="./assets/vector-45.png"/>*/}
             <p>Реквизиты</p>
           </div>
 
           <div className="item">
             <div className="ico two"></div>
-            {/*<img className="ico-1-7aF" src="./assets/ico-1.png"/>*/}
             <p className="item--Raw">Задать вопрос</p>
           </div>
         </div>

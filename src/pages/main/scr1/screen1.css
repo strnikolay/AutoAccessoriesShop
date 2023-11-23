@@ -2,7 +2,6 @@
 .screen-1 {
   width: 100%;
   max-width: 1640px;
-  /*height: 100vh;*/
   display: flex;
   justify-content: center;
   /*position: relative;*/
@@ -22,7 +21,6 @@
   width: 100%;
   max-width: 1640px;
   height: 720px;
-  /*max-height: 1600px;*/
   position: relative ;
   display: flex;
   justify-content: center;
