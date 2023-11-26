@@ -8,11 +8,6 @@
   align-items: center;
 }
 
-.wrapper {
-  width: 80%;
-  height: 100px;
-}
-
 .slider {
   width: 100%;
   height: 50px;
@@ -21,23 +16,6 @@
 .container{
   height: 100px;
   display: flex;
-}
-
-.slider_img{
-  width: 100%;
-  height: 50px;
-  display: flex;
-  background-color: #fff;
-
-}
-
-.slider_img div{
-  width: 150px;
-  height: 50px;
-  background-size: contain;
-  background-repeat: no-repeat;
-  margin: 0 20px;
-  background-position: center;
 }
 
 .part1{

@@ -40,6 +40,10 @@ body {
   pointer-events: none;
 }*/
 
+html {
+	font-size:62.5%;
+}
+
 * {
   box-sizing: border-box;
 	margin: 0;

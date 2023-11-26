@@ -16,7 +16,6 @@ export default function Carousel({ children, width, unit }) {
             style={{width: `${width*3+200}${unit}`}}
         >
             <button className="prev" onClick={handlePrev}/>
-
             <div className="container">
                 <div
                     className="inner"

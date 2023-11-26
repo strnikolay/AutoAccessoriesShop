@@ -18,10 +18,16 @@
   background-repeat: no-repeat;
   background-position: center;
 }
+
+.screen-wrapper *{
+  
+}
+
+
+
   .screen-wrapper .title {
   font-size: 3.6rem;
   font-weight: 700;
-  /*line-height: 1.2575;*/
   text-transform: uppercase;
   color: #ffffff;
   font-family: Geometria, 'Source Sans Pro';

@@ -1,29 +1,12 @@
 
 .screen3 {
-  /*height: ;
-  background-color: ;*/
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
 
-html {
-	font-size:62.5%;
-}
-* {
-	margin: 0;
-	padding: 0;
-}
-ul, li {
-	list-style: none;
-}
-input {
-	border: none;
-}
-body {
-  width: 164rem;
-}.item--X5q {
+.item--X5q {
   width: 100%;
   align-items: center;
   display: flex;

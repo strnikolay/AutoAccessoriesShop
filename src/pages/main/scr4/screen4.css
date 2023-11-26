@@ -83,7 +83,6 @@
   align-items: flex-end;
   display: flex;
   flex-direction: column;
-  /*background-size: cover;*/
   background-repeat: no-repeat;
   background-position: center;
   flex-shrink: 0;
