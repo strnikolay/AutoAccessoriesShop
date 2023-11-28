@@ -1,10 +1,10 @@
 .screen1-button {
-    /*width: ;
-    height: ;
-    position: absolute;
-    bottom: ;
-    border: solid 0.1rem #ffee94;
-    padding: ;*/
+    width: 212px;
+    height: 52px;
+    /*position: absolute;
+    bottom: ;*/
+    border: solid 4px #C53720;
+    /*padding: ;*/
 }
   
 .screen1-button-content {
@@ -17,8 +17,10 @@
 }
   
 .screen1-button a{
-    color: #000;
-    /*font-size: calc(14px + 1 * (100vw/200));
-    font-weight: 800;
+    font-family: Geometria, 'Source Sans Pro';
+    color: #fff;
+    /*font-size: calc(14px + 1 * (100vw/200));*/
+    font-size: 14px;
+    font-weight: 700;
     /*letter-spacing: 0.2vw;*/
 }
