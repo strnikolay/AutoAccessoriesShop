@@ -1,11 +1,11 @@
 import "./button.css"
 
-function Button () {
+function Button (props) {
+    const {text} = props
 return(
-
 <div className="screen1-button">
     <div className="screen1-button-content">
-        <a href="#lead"><h2></h2></a>
+        <a href="#lead">{text}</a>
     </div>
 </div> 
 
