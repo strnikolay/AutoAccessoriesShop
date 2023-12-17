@@ -39,7 +39,6 @@
   line-height: 1.2575;
 }
 
-
  .screen3-wrapper .content-wrapper {
   width: 100%;
   height: 72.6rem;
@@ -55,7 +54,6 @@
 }
 
 .left-img .frame {
-  /*width: 48.9rem;*/
   height: 61.9rem;
   background-repeat: no-repeat;
   background-position: center;
@@ -87,8 +85,6 @@
   background-image: url('./img/rect.png');
   z-index: 3;
 }
-
-
 
 .screen3-wrapper .content-wrapper .service-item {
   padding: 3.75rem 6.8rem 4rem 4rem;
@@ -137,19 +133,11 @@
   flex-shrink: 0;
 }
 
-
-
-
-
-
 .screen3-wrapper .content-wrapper .hover {
   width: 60.5rem;
   height: 20rem;
   position: absolute;
 }
-
-
-
 
 .screen3-wrapper .content-wrapper .button-98s {
   width: 23.6rem;
@@ -169,8 +157,6 @@
   border: solid 0.4rem #c53720;
   box-sizing: border-box;
 }
-
-
 
 @media screen and (max-width: 1920px) {
  

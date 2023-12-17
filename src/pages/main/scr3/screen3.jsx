@@ -7,11 +7,7 @@ import hover from "./img/hover.png"
 function MainThirdScreen () {
 
 return(
-  
   <div className="screen3">
-
-    
-
   <div className="screen3-wrapper">
 
     <div className="title">услуги</div>
@@ -60,12 +56,7 @@ return(
 
       <div className="button-98s">ЗАДАТЬ ВОПРОС</div>
     </div>
-
-
-  </div>
-
-
-    
+  </div>    
   </div>
 
 )}

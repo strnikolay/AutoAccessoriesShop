@@ -1,10 +1,7 @@
 .screen1-button {
     width: 212px;
     height: 52px;
-    /*position: absolute;
-    bottom: ;*/
     border: solid 4px #C53720;
-    /*padding: ;*/
 }
   
 .screen1-button-content {
@@ -22,5 +19,4 @@
     /*font-size: calc(14px + 1 * (100vw/200));*/
     font-size: 14px;
     font-weight: 700;
-    /*letter-spacing: 0.2vw;*/
 }

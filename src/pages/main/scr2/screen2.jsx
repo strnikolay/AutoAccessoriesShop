@@ -5,7 +5,6 @@ function MainSecondScreen () {
 
 return(
 <>
-  {/*<div className="screen2">*/}
 
 <div className="item--EQw">
     <div className="item--yNX">
@@ -20,8 +19,6 @@ return(
       <div className="item--rDM">
 
           <div className="item imM">
-            {/*<p className="item--1Ef">АККУМУЛЯТОРЫ</p>
-            <div className="button-hdH">ЗАКАЗАТЬ ОНЛАЙН</div>*/}
           </div>
           <div className="item m7M"></div>
           <div className="item zVu">
@@ -36,7 +33,6 @@ return(
     </div>
   </div>
 
-{/*</div>*/}
 </>
 )}
 export default MainSecondScreen;

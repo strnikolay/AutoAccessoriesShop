@@ -3,9 +3,7 @@ import "./screen5.css"
 function MainThirdScreen () {
 
 return(
-  
   <div className="screen3">
-    
   <div class="item--bnF">
     <div class="auto-group-t1vh-XA7">
       <div class="frame-4-EKR">
