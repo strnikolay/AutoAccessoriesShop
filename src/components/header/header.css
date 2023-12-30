@@ -1,8 +1,9 @@
 header {
   width: 100%;
+  max-width: 1640px;
   background-color: #0e0e0e;
   height: 100px;
-  /*position: fixed;*/
+  position: fixed;
   display: flex;
   justify-content: center;
   align-items: center;

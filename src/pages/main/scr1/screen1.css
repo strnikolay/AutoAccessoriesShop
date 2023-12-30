@@ -14,7 +14,7 @@
   width: 100%;
   max-width: 1640px;
   height: 720px;
-  position: relative ;
+  position: relative;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -27,8 +27,8 @@
 .content-wraper{
   position: absolute;
   bottom: 0;
-  height: 65%;
-  width: 70%;
+  height: 468px;
+  width: 1147px;
   max-height: 1640px;
   /*filter: drop-shadow(-15px 10px 15px #000);*/
 }
