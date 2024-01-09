@@ -6,14 +6,15 @@ function MainFooter () {
 return(
 
   <footer className="footer">
-    <div className="auto-group-eowm-dLj">
+    <div className="logo-wrapper">
       <img className="logo-NJK" src={logo}/>
-      <p className="pro-auto--7Fu">
+      <p className="copyright">
       © 2019 PRO Auto. 
       <br/>
       Все права защищены.
       </p>
     </div>
+    <div className="menu-wrapper">
     <div className="auto-group-d6ab-oeX">
       <div className="item--9M1">КОМПАНИЯ</div>
       <p className="item--eoZ">О КОМПАНИИ</p>
@@ -42,6 +43,9 @@ return(
       <p className="item--WyV">СТАТЬИ</p>
       <p className="item--FRH">ВОПРОС - ОТВЕТ</p>
     </div>
+
+    </div>
+    <div className="action-wrapper">
     <div className="auto-group-wwyr-mPd">
       <img className="vector-Wc7" src="./assets/vector-mVh.png"/>
       <img className="subtract-4Nj" src="./assets/subtract-q7V.png"/>
@@ -53,6 +57,10 @@ return(
       </div>
       <div className="button-irb">ЗАКАЗАТЬ ЗВОНОК</div>
     </div>
+
+
+    </div>
+
   </footer>
 
 
