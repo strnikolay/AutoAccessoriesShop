@@ -1,7 +1,7 @@
 import "./screen2.css"
 
 
-function MainSecondScreen () {
+function MainCatalogScreen () {
 
 return(
 <>
@@ -35,7 +35,7 @@ return(
 
 </>
 )}
-export default MainSecondScreen;
+export default MainCatalogScreen;
 
 
 

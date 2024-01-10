@@ -8,10 +8,10 @@ import MainFourScreen from "./scr4_about/about";
 import MainFooter from "../../components/footer/footer";
 import ScrollButton from "../../components/scrollto/scrollbutton";
 
-import MainAboutScreen from "./scr7/main-about-screen";
-import MainSixScreen from "./scr6/screen6";
+import MainAboutScreen from "./MainAboutScreen/main-about-screen";
 import VertGoodCard from "../../components/vert-good-card/vert-good-card";
 import LeftCatalogMenu from "../../components/left-Catalog-Menu/left-Catalog-Menu";
+import PartnerCarousel from "./PartnerCarousel/PartnerCarousel";
 
 
 function Main () {
@@ -22,15 +22,15 @@ return(
 <MainFirstScreen/>
 
 {/*
-<LeftCatalogMenu/>
-<MainSixScreen/>
-<MainAboutScreen />*/}
+<LeftCatalogMenu/>*/}
+<PartnerCarousel/>
+<MainAboutScreen />
 
 <MainSecondScreen/>
 <MainThirdScreen/>
 <MainFourScreen />
 
-<VertGoodCard />
+{/*<VertGoodCard />*/}
 
 <MainFooter/>
 <ScrollButton/>

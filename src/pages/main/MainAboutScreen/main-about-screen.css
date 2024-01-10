@@ -1,0 +1,108 @@
+
+.main-about-screen {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.main-about-screen .screen-wrapper {
+  width: 100%;
+  max-width: 1640px;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-image: url('./background.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.screen-wrapper *{
+  
+}
+
+
+
+  .screen-wrapper .title {
+  font-size: 3.6rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Geometria, 'Source Sans Pro';
+  border-bottom: 6px solid #c53720;
+  margin: 30px 0;
+}
+
+.screen-wrapper .content-wrapper {
+  width: 90%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  margin-bottom: 40px;
+}
+  .screen-wrapper .content-wrapper .foto {
+  margin-right: 2.4rem;
+  width: 30%;
+}
+  .screen-wrapper .content-wrapper .text {
+  box-sizing: border-box;
+  padding: 3rem;
+  width: 60%;
+  border: solid 0.4rem #c53720;
+  background-color: rgba(14, 14, 14, 0.6000000238);
+  flex-shrink: 0;
+}
+  .screen-wrapper .content-wrapper .text p {
+  margin-bottom: 2.7rem;
+  max-width: 67.9rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Geometria, 'Source Sans Pro';
+}
+  .screen-wrapper .content-wrapper .text button {
+  width: 18rem;
+  height: 4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Geometria, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.4rem #c53720;
+  background-color: rgba(14, 14, 14, 0);
+}
+
+
+@media screen and (max-width: 1920px) {
+ 
+}
+
+@media screen and (max-width: 1600px) {
+ 
+}
+
+
+
+@media screen and (max-width: 640px) {
+
+}
+
+
+@media screen and (max-width: 320px) {
+ 
+}
+
+
+
+
+
+
+
+
