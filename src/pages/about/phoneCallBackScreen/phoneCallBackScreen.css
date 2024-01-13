@@ -98,7 +98,7 @@ body {
   font-size: 2.4rem;
   font-weight: 500;
   line-height: 1.2575;
-  color: #c53720;
+  color: var(--red);
   font-family: Geometria, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
@@ -106,7 +106,7 @@ body {
 .item--mV9 .item--Tcs .item--NE3 .item--rf1 .item--VbV .rectangle-91-t7q {
   width: 100%;
   height: 0.4rem;
-  background-color: #c53720;
+  background-color: var(--red);
   flex-shrink: 0;
 }
 .item--mV9 .item--Tcs .item--NE3 .item--cJj {
@@ -382,7 +382,7 @@ body {
 .item--mV9 .item--Tcs .item--NE3 .auto-group-avk9-5CK .item--ncX .item--US3 .ticker--mg3 .rectangle-61-Vc3 {
   width: 100%;
   height: 1.2rem;
-  background-color: #c53720;
+  background-color: var(--red);
 }
 .item--mV9 .item--Tcs .item--NE3 .auto-group-avk9-5CK .item--ncX .item--US3 .item--26B {
   display: flex;
@@ -404,7 +404,7 @@ body {
   font-size: 1.6rem;
   font-weight: 500;
   line-height: 1.2575;
-  color: #c53720;
+  color: var(--red);
   font-family: Geometria, 'Source Sans Pro';
 }
 .item--mV9 .item--Tcs .item--NE3 .auto-group-avk9-5CK .image-JC7 {
@@ -447,7 +447,7 @@ body {
   color: #c53720;
   font-family: Geometria, 'Source Sans Pro';
   white-space: nowrap;
-  border: solid 0.4rem #c53720;
+  border: solid 0.4rem var(--red);
   box-sizing: border-box;
   flex-shrink: 0;
 }

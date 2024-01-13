@@ -74,7 +74,7 @@ body {
   color: #ffffff;
   font-family: Geometria, 'Source Sans Pro';
   white-space: nowrap;
-  border: solid 0.4rem #c53720;
+  border: solid 0.4rem var(--red);
   box-sizing: border-box;
 }
 .item-3-Qhu .faq-Anj .item--7hy .item-4-pVu {
@@ -306,7 +306,7 @@ body {
   font-size: 2.4rem;
   font-weight: 500;
   line-height: 1.2575;
-  color: #c53720;
+  color: var(--red);
   font-family: Geometria, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
@@ -314,7 +314,7 @@ body {
 .item-3-Qhu .faq-Anj .item--7hy .item--eA3 .auto-group-br63-wew .item--VgT .rectangle-91-K9h {
   width: 100%;
   height: 0.4rem;
-  background-color: #c53720;
+  background-color: var(--red);
   flex-shrink: 0;
 }
 .item-3-Qhu .faq-Anj .item--7hy .item--eA3 .auto-group-br63-wew .item--U2b {
@@ -366,7 +366,7 @@ body {
   margin: 0rem 36.3rem 3.2rem 36.3rem;
   width: calc(100% - 72.6rem);
   height: 0.4rem;
-  background-color: #c53720;
+  background-color: var(--red);
   flex-shrink: 0;
 }
 .item-3-Qhu .faq-Anj .item--7hy .item--tMD .item--dCK {

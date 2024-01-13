@@ -68,7 +68,7 @@ body {
   position: absolute;
   left: 88.4rem;
   top: 5.8rem;
-  border: solid 0.4rem #c53720;
+  border: solid 0.4rem var(--red);
 }
 .item--gwZ .item--7vo .auto-group-d4x7-Nrj .item--ubm .vector-22-PG3 {
   width: 1.2rem;
@@ -127,7 +127,7 @@ body {
   margin: 0rem 32.45rem 2rem 32.45rem;
   width: calc(100% - 64.9rem);
   height: 0.4rem;
-  background-color: #c53720;
+  background-color: var(--red);
   flex-shrink: 0;
 }
 .item--gwZ .item--7vo .auto-group-d4x7-Nrj .item--MMH .item--Mvw {
@@ -197,7 +197,7 @@ body {
   margin: 0rem 12.6rem 3.2rem 12.6rem;
   width: calc(100% - 25.2rem);
   height: 0.4rem;
-  background-color: #c53720;
+  background-color: var(--red);
   flex-shrink: 0;
 }
 .item--gwZ .item--7vo .item--GRd .item--P8s {
