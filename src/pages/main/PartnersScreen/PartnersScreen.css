@@ -59,7 +59,7 @@ body {
   color: #ffffff;
   font-family: Geometria, 'Source Sans Pro';
   white-space: nowrap;
-  border: solid 0.4rem #c53720;
+  border: solid 0.4rem var(--red);
   box-sizing: border-box;
 }
 .item--gwZ .item--dXD .rectangle-25-DVR {
@@ -68,7 +68,7 @@ body {
   position: absolute;
   left: 69.6rem;
   top: 14.4rem;
-  background-color: #c53720;
+  background-color: var(--red);
 }
 .item--gwZ .item--dXD .item--xC7 {
   width: 22.8rem;
@@ -97,7 +97,7 @@ body {
   align-items: center;
   display: flex;
   flex-direction: column;
-  border: solid 0.4rem #c53720;
+  border: solid 0.4rem var(--red);
   box-sizing: border-box;
   background-color: #ffffff;
 }

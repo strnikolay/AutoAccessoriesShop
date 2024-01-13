@@ -20,7 +20,7 @@ function MainFirstScreen () {
       i<3 ? setI(i+1) : setI(0);
       //title.style = "animation: blurFadeInOut 3s ease-in backwards;"
       if (el.length > 0) {el.forEach((el) => el.style = "background-color: #fffff;")
-      el[i].style = "background-color: #C53720;"}
+      el[i].style = "background-color: var(--red);"}
     }, 5000)
     return () => clearTimeout(timer)
 

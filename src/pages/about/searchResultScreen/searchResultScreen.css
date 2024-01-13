@@ -82,7 +82,7 @@ body {
   margin: 0rem 4.65rem 3.2rem 4.65rem;
   width: calc(100% - 9.3rem);
   height: 0.4rem;
-  background-color: #c53720;
+  background-color: var(--red);
   flex-shrink: 0;
 }
 .item--mV9 .item--enB .item--MRh .item--FGB .item--Nk7 {
@@ -132,7 +132,7 @@ body {
   font-size: 2rem;
   font-weight: 500;
   line-height: 1.2575;
-  color: #c53720;
+  color: var(--red);
   font-family: Geometria, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
@@ -253,7 +253,7 @@ body {
   height: 100%;
   position: relative;
   overflow: hidden;
-  border: solid 0.4rem #c53720;
+  border: solid 0.4rem var(--red);
   box-sizing: border-box;
   background-color: #ffffff;
   flex-shrink: 0;
@@ -709,10 +709,10 @@ body {
   font-size: 1.4rem;
   font-weight: 700;
   line-height: 1.2575;
-  color: #c53720;
+  color: var(--red);
   font-family: Geometria, 'Source Sans Pro';
   white-space: nowrap;
-  border: solid 0.4rem #c53720;
+  border: solid 0.4rem var(--red);
   box-sizing: border-box;
   flex-shrink: 0;
 }
@@ -916,7 +916,7 @@ body {
   color: #c53720;
   font-family: Geometria, 'Source Sans Pro';
   white-space: nowrap;
-  border: solid 0.4rem #c53720;
+  border: solid 0.4rem var(--red);
   box-sizing: border-box;
   flex-shrink: 0;
 }
@@ -957,7 +957,7 @@ body {
   font-size: 2rem;
   font-weight: 500;
   line-height: 1.2575;
-  color: #c53720;
+  color: var(--red);
   font-family: Geometria, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
@@ -1078,7 +1078,7 @@ body {
   height: 100%;
   position: relative;
   overflow: hidden;
-  border: solid 0.4rem #c53720;
+  border: solid 0.4rem var(--red);
   box-sizing: border-box;
   background-color: #ffffff;
   flex-shrink: 0;
@@ -1126,10 +1126,10 @@ body {
   font-size: 1.4rem;
   font-weight: 700;
   line-height: 1.2575;
-  color: #c53720;
+  color: var(--red);
   font-family: Geometria, 'Source Sans Pro';
   white-space: nowrap;
-  border: solid 0.4rem #c53720;
+  border: solid 0.4rem var(--red);
   box-sizing: border-box;
   flex-shrink: 0;
 }
@@ -1161,7 +1161,7 @@ body {
   font-size: 2rem;
   font-weight: 500;
   line-height: 1.2575;
-  color: #c53720;
+  color: var(--red);
   font-family: Geometria, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
@@ -1282,7 +1282,7 @@ body {
   height: 100%;
   position: relative;
   overflow: hidden;
-  border: solid 0.4rem #c53720;
+  border: solid 0.4rem var(--red);
   box-sizing: border-box;
   background-color: #ffffff;
   flex-shrink: 0;
@@ -1330,10 +1330,10 @@ body {
   font-size: 1.4rem;
   font-weight: 700;
   line-height: 1.2575;
-  color: #c53720;
+  color: var(--red);
   font-family: Geometria, 'Source Sans Pro';
   white-space: nowrap;
-  border: solid 0.4rem #c53720;
+  border: solid 0.4rem var(--red);
   box-sizing: border-box;
   flex-shrink: 0;
 }
@@ -1365,7 +1365,7 @@ body {
   font-size: 2rem;
   font-weight: 500;
   line-height: 1.2575;
-  color: #c53720;
+  color: var(--red);
   font-family: Geometria, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
@@ -1486,7 +1486,7 @@ body {
   height: 100%;
   position: relative;
   overflow: hidden;
-  border: solid 0.4rem #c53720;
+  border: solid 0.4rem var(--red);
   box-sizing: border-box;
   background-color: #ffffff;
   flex-shrink: 0;
@@ -1534,10 +1534,10 @@ body {
   font-size: 1.4rem;
   font-weight: 700;
   line-height: 1.2575;
-  color: #c53720;
+  color: var(--red);
   font-family: Geometria, 'Source Sans Pro';
   white-space: nowrap;
-  border: solid 0.4rem #c53720;
+  border: solid 0.4rem var(--red);
   box-sizing: border-box;
   flex-shrink: 0;
 }
@@ -1569,7 +1569,7 @@ body {
   font-size: 2rem;
   font-weight: 500;
   line-height: 1.2575;
-  color: #c53720;
+  color: var(--red);
   font-family: Geometria, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
@@ -1690,7 +1690,7 @@ body {
   height: 100%;
   position: relative;
   overflow: hidden;
-  border: solid 0.4rem #c53720;
+  border: solid 0.4rem var(--red);
   box-sizing: border-box;
   background-color: #ffffff;
   flex-shrink: 0;
@@ -1738,10 +1738,10 @@ body {
   font-size: 1.4rem;
   font-weight: 700;
   line-height: 1.2575;
-  color: #c53720;
+  color: var(--red);
   font-family: Geometria, 'Source Sans Pro';
   white-space: nowrap;
-  border: solid 0.4rem #c53720;
+  border: solid 0.4rem var(--red);
   box-sizing: border-box;
   flex-shrink: 0;
 }
@@ -1782,7 +1782,7 @@ body {
   font-size: 2rem;
   font-weight: 500;
   line-height: 1.2575;
-  color: #c53720;
+  color: var(--red);
   font-family: Geometria, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
@@ -1903,7 +1903,7 @@ body {
   height: 100%;
   position: relative;
   overflow: hidden;
-  border: solid 0.4rem #c53720;
+  border: solid 0.4rem var(--red);
   box-sizing: border-box;
   background-color: #ffffff;
   flex-shrink: 0;
@@ -1951,7 +1951,7 @@ body {
   font-size: 1.4rem;
   font-weight: 700;
   line-height: 1.2575;
-  color: #c53720;
+  color: var(--red);
   font-family: Geometria, 'Source Sans Pro';
   white-space: nowrap;
   border: solid 0.4rem #c53720;
@@ -1986,7 +1986,7 @@ body {
   font-size: 2rem;
   font-weight: 500;
   line-height: 1.2575;
-  color: #c53720;
+  color: var(--red);
   font-family: Geometria, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
@@ -2158,7 +2158,7 @@ body {
   color: #c53720;
   font-family: Geometria, 'Source Sans Pro';
   white-space: nowrap;
-  border: solid 0.4rem #c53720;
+  border: solid 0.4rem var(--red);
   box-sizing: border-box;
   flex-shrink: 0;
 }
@@ -2190,7 +2190,7 @@ body {
   font-size: 2rem;
   font-weight: 500;
   line-height: 1.2575;
-  color: #c53720;
+  color: var(--red);
   font-family: Geometria, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
@@ -2362,7 +2362,7 @@ body {
   color: #c53720;
   font-family: Geometria, 'Source Sans Pro';
   white-space: nowrap;
-  border: solid 0.4rem #c53720;
+  border: solid 0.4rem var(--red);
   box-sizing: border-box;
   flex-shrink: 0;
 }
@@ -2394,7 +2394,7 @@ body {
   font-size: 2rem;
   font-weight: 500;
   line-height: 1.2575;
-  color: #c53720;
+  color: var(--red);
   font-family: Geometria, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
@@ -2515,7 +2515,7 @@ body {
   height: 100%;
   position: relative;
   overflow: hidden;
-  border: solid 0.4rem #c53720;
+  border: solid 0.4rem var(--red);
   box-sizing: border-box;
   background-color: #ffffff;
   flex-shrink: 0;
@@ -2563,10 +2563,10 @@ body {
   font-size: 1.4rem;
   font-weight: 700;
   line-height: 1.2575;
-  color: #c53720;
+  color: var(--red);
   font-family: Geometria, 'Source Sans Pro';
   white-space: nowrap;
-  border: solid 0.4rem #c53720;
+  border: solid 0.4rem var(--red);
   box-sizing: border-box;
   flex-shrink: 0;
 }
@@ -2613,7 +2613,7 @@ body {
   top: 0;
   border: solid 0.4rem #c53720;
   box-sizing: border-box;
-  background-color: #c53720;
+  background-color: var(--red);
 }
 .item--mV9 .item--enB .item--MRh .item--WGf .item-4-ui7 {
   width: 0.8rem;

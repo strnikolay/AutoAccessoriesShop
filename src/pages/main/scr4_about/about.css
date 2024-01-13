@@ -11,7 +11,7 @@
 }
 
 .about .title {
-  border-bottom: 6px solid #c53720;
+  border-bottom: 6px solid var(--red);
   margin-bottom: 30px;
 }
 
