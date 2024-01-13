@@ -147,7 +147,7 @@ body {
   align-items: center;
   display: flex;
   flex-direction: column;
-  background-color: #c53720;
+  background-color: var(--red);
   flex-shrink: 0;
 }
  .sub-menu-VAo .item--ai3 .item--6Ab .auto-group-hc5u-1oM {
@@ -178,7 +178,7 @@ body {
  .sub-menu-VAo .item--ai3 .item--6Ab .rectangle-1-W7q {
   width: 100%;
   height: 0.1rem;
-  background-color: #c53720;
+  background-color: var(--red);
   flex-shrink: 0;
 }
  .sub-menu-VAo .item--ai3 .item--2rs {

@@ -1,7 +1,7 @@
 .screen1-button {
     width: 212px;
     height: 52px;
-    border: solid 4px #C53720;
+    border: solid 4px var(--red);
 }
   
 .screen1-button-content {

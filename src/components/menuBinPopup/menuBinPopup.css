@@ -139,7 +139,7 @@ body {
   font-size: 2rem;
   font-weight: 500;
   line-height: 1.2575;
-  color: #c53720;
+  color: var(--red);
   font-family: Geometria, 'Source Sans Pro';
   white-space: nowrap;
 }
@@ -212,10 +212,10 @@ body {
   font-size: 1.4rem;
   font-weight: 700;
   line-height: 1.2575;
-  color: #c53720;
+  color: var(--red);
   font-family: Geometria, 'Source Sans Pro';
   white-space: nowrap;
-  border: solid 0.4rem #c53720;
+  border: solid 0.4rem var(--red);
   box-sizing: border-box;
 }
 .item--Vbu .rectangle-6-KyZ {

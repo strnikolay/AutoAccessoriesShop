@@ -79,7 +79,7 @@ header .bin-count {
   content: "";
   width: 26px ;
   height: 26px ;
-  background-color: #C53720;
+  background-color: var(--red);
   border-radius: 50%;
 }
 

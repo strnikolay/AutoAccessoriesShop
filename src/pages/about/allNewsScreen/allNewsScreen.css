@@ -70,7 +70,7 @@ body {
   margin: 0rem 7.7rem 3.2rem 7.7rem;
   width: calc(100% - 15.4rem);
   height: 0.4rem;
-  background-color: #c53720;
+  background-color: var(--red);
   flex-shrink: 0;
 }
 .item-3-Qhu .item--WW3 .item--nCf .pro-auto-t9D {
@@ -126,7 +126,7 @@ body {
   font-size: 1.6rem;
   font-weight: 700;
   line-height: 1.2575;
-  color: #c53720;
+  color: var(--red);
   font-family: Geometria, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
@@ -361,10 +361,10 @@ body {
   font-size: 1.4rem;
   font-weight: 700;
   line-height: 1.2575;
-  color: #c53720;
+  color: var(--red);
   font-family: Geometria, 'Source Sans Pro';
   white-space: nowrap;
-  border: solid 0.4rem #c53720;
+  border: solid 0.4rem var(--red);
   box-sizing: border-box;
   flex-shrink: 0;
 }

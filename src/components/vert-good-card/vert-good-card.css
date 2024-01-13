@@ -22,7 +22,7 @@ body {
     width: 100%;    
   margin-bottom: 1.65rem;
   font-size: 2rem;
-  color: #c53720;
+  color: var(--red);
   font-family: Geometria, 'Source Sans Pro';
 }
 .price_wrapper {
@@ -127,7 +127,7 @@ body {
   height: 100%;
   position: relative;
   overflow: hidden;
-  border: solid 0.4rem #c53720;
+  border: solid 0.4rem var(--red);
   box-sizing: border-box;
   background-color: #ffffff;
   flex-shrink: 0;
@@ -172,10 +172,10 @@ body {
   font-size: 1.4rem;
   font-weight: 700;
   line-height: 1.2575;
-  color: #c53720;
+  color: var(--red);
   font-family: Geometria, 'Source Sans Pro';
   white-space: nowrap;
-  border: solid 0.4rem #c53720;
+  border: solid 0.4rem var(--red);
   box-sizing: border-box;
   flex-shrink: 0;
 }

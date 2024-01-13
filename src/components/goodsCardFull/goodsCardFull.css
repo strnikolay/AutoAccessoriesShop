@@ -322,7 +322,7 @@ body {
   font-size: 1.4rem;
   font-weight: 700;
   line-height: 1.2575;
-  color: #c53720;
+  color: var(--red);
   font-family: Geometria, 'Source Sans Pro';
   white-space: nowrap;
   border: solid 0.4rem #c53720;
@@ -335,7 +335,7 @@ body {
   height: 100%;
   overflow: hidden;
   position: relative;
-  border: solid 0.4rem #c53720;
+  border: solid 0.4rem var(--red);
   background-color: #ffffff;
   flex-shrink: 0;
 }

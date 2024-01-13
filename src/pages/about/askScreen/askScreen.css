@@ -141,7 +141,7 @@ body {
   font-size: 1.6rem;
   font-weight: 500;
   line-height: 1.2575;
-  color: #c53720;
+  color: var(--red);
   font-family: Geometria, 'Source Sans Pro';
 }
 .item-3-Qhu .item--nzK .auto-group-7oap-Tcb .group-38-aSK .item--AKy {
@@ -155,7 +155,7 @@ body {
   font-size: 1.6rem;
   font-weight: 500;
   line-height: 1.2575;
-  color: #c53720;
+  color: var(--red);
   font-family: Geometria, 'Source Sans Pro';
   white-space: nowrap;
 }
@@ -259,7 +259,7 @@ body {
   font-size: 1.6rem;
   font-weight: 500;
   line-height: 1.2575;
-  color: #c53720;
+  color: var(--red);
   font-family: Geometria, 'Source Sans Pro';
 }
 .item-3-Qhu .item--nzK .auto-group-7oap-Tcb .group-38-aSK .e-mail--C7Z {
@@ -311,7 +311,7 @@ body {
   font-size: 1.6rem;
   font-weight: 500;
   line-height: 1.2575;
-  color: #c53720;
+  color: var(--red);
   font-family: Geometria, 'Source Sans Pro';
 }
 .item-3-Qhu .item--nzK .auto-group-7oap-Tcb .button-Kju {
@@ -329,7 +329,7 @@ body {
   color: #ffffff;
   font-family: Geometria, 'Source Sans Pro';
   white-space: nowrap;
-  border: solid 0.4rem #c53720;
+  border: solid 0.4rem var(--red);
   box-sizing: border-box;
 }
 
