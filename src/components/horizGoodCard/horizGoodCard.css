@@ -162,7 +162,7 @@ body {
   color: #ffffff;
   font-family: Geometria, 'Source Sans Pro';
   white-space: nowrap;
-  background-color: #c53720;
+  background-color: var(--red);
 }
 .hover-hNf .auto-group-ud5y-PPD .auto-group-wgpw-PXd {
   margin-bottom: 1.5rem;
@@ -278,10 +278,10 @@ body {
   font-size: 1.4rem;
   font-weight: 700;
   line-height: 1.2575;
-  color: #c53720;
+  color: var(--red);
   font-family: Geometria, 'Source Sans Pro';
   white-space: nowrap;
-  border: solid 0.4rem #c53720;
+  border: solid 0.4rem var(--red);
   box-sizing: border-box;
   flex-shrink: 0;
 }
@@ -291,7 +291,7 @@ body {
   height: 100%;
   overflow: hidden;
   position: relative;
-  border: solid 0.4rem #c53720;
+  border: solid 0.4rem var(--red);
   background-color: #ffffff;
   flex-shrink: 0;
 }
