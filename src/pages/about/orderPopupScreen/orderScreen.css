@@ -171,7 +171,7 @@ body {
   font-size: 1.6rem;
   font-weight: 500;
   line-height: 1.2575;
-  color: #c53720;
+  color: var(--red);
   font-family: Geometria, 'Source Sans Pro';
 }
 .item--X5q .item--M2o .auto-group-jrkq-tgw .auto-group-jruf-d8j .auto-group-fqqy-cgo .item--Tqq {
@@ -355,7 +355,7 @@ body {
   font-size: 1.6rem;
   font-weight: 500;
   line-height: 1.2575;
-  color: #c53720;
+  color: var(--red);
   font-family: Geometria, 'Source Sans Pro';
   white-space: nowrap;
 }
@@ -399,7 +399,7 @@ body {
   font-size: 1.6rem;
   font-weight: 500;
   line-height: 1.2575;
-  color: #c53720;
+  color: var(--red);
   font-family: Geometria, 'Source Sans Pro';
   white-space: nowrap;
 }

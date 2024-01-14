@@ -84,8 +84,8 @@ body {
   position: absolute;
   left: 0;
   top: 5.8rem;
-  border: solid 0.4rem #c53720;
-  background-color: #c53720;
+  border: solid 0.4rem var(--red);
+  background-color: var(--red);
 }
 .item--gwZ .item--7vo .auto-group-d4x7-Nrj .item--vFy .vector-22-247 {
   width: 1.2rem;

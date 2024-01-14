@@ -75,7 +75,7 @@
   color: #ffffff;
   font-family: Geometria, 'Source Sans Pro';
   white-space: nowrap;
-  border: solid 0.4rem #c53720;
+  border: solid 0.4rem var(--red);
   background-color: rgba(14, 14, 14, 0);
 }
 

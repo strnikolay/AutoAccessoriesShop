@@ -170,7 +170,7 @@ body {
   font-size: 1.6rem;
   font-weight: 500;
   line-height: 1.2575;
-  color: #c53720;
+  color: var(--red);
   font-family: Geometria, 'Source Sans Pro';
 }
 .item--mV9 .item--Tcs .item--NE3 .auto-group-avk9-5CK .item--ncX .item--5bd .auto-group-udb5-CgF .item--K27 {
@@ -230,7 +230,7 @@ body {
   font-size: 1.6rem;
   font-weight: 500;
   line-height: 1.2575;
-  color: #c53720;
+  color: var(--red);
   font-family: Geometria, 'Source Sans Pro';
 }
 .item--mV9 .item--Tcs .item--NE3 .auto-group-avk9-5CK .item--ncX .item--Xdy .auto-group-p95r-FK5 .item--6U7 {
@@ -430,7 +430,7 @@ body {
   font-size: 1.6rem;
   font-weight: 500;
   line-height: 1.2575;
-  color: #c53720;
+  color: var(--red);
   font-family: Geometria, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
@@ -444,7 +444,7 @@ body {
   font-size: 1.2rem;
   font-weight: 700;
   line-height: 1.2575;
-  color: #c53720;
+  color: var(--red);
   font-family: Geometria, 'Source Sans Pro';
   white-space: nowrap;
   border: solid 0.4rem var(--red);

@@ -385,7 +385,7 @@ body {
   color: #ffffff;
   font-family: Geometria, 'Source Sans Pro';
   white-space: nowrap;
-  border: solid 0.4rem #c53720;
+  border: solid 0.4rem var(--red);
   box-sizing: border-box;
   flex-shrink: 0;
 }
@@ -451,7 +451,7 @@ body {
   color: #ffffff;
   font-family: Geometria, 'Source Sans Pro';
   white-space: nowrap;
-  border: solid 0.4rem #c53720;
+  border: solid 0.4rem var(--red);
   box-sizing: border-box;
   flex-shrink: 0;
 }
@@ -525,7 +525,7 @@ body {
   color: #ffffff;
   font-family: Geometria, 'Source Sans Pro';
   white-space: nowrap;
-  border: solid 0.4rem #c53720;
+  border: solid 0.4rem var(--red);
   box-sizing: border-box;
   flex-shrink: 0;
 }
@@ -591,7 +591,7 @@ body {
   color: #ffffff;
   font-family: Geometria, 'Source Sans Pro';
   white-space: nowrap;
-  border: solid 0.4rem #c53720;
+  border: solid 0.4rem var(--red);
   box-sizing: border-box;
   flex-shrink: 0;
 }
@@ -657,7 +657,7 @@ body {
   color: #ffffff;
   font-family: Geometria, 'Source Sans Pro';
   white-space: nowrap;
-  border: solid 0.4rem #c53720;
+  border: solid 0.4rem var(--red);
   box-sizing: border-box;
   flex-shrink: 0;
 }
@@ -1166,10 +1166,10 @@ body {
   font-size: 1.4rem;
   font-weight: 700;
   line-height: 1.2575;
-  color: #c53720;
+  color: var(--red);
   font-family: Geometria, 'Source Sans Pro';
   white-space: nowrap;
-  border: solid 0.4rem #c53720;
+  border: solid 0.4rem var(--red);
   box-sizing: border-box;
   flex-shrink: 0;
 }
@@ -1179,7 +1179,7 @@ body {
   height: 100%;
   overflow: hidden;
   position: relative;
-  border: solid 0.4rem #c53720;
+  border: solid 0.4rem var(--red);
   background-color: #ffffff;
   flex-shrink: 0;
 }
@@ -1308,7 +1308,7 @@ body {
   font-size: 1.4rem;
   font-weight: 500;
   line-height: 1.2575;
-  color: #c53720;
+  color: var(--red);
   font-family: Geometria, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
@@ -1398,7 +1398,7 @@ body {
   position: absolute;
   left: 0;
   top: 0;
-  background-color: #c53720;
+  background-color: var(--red);
 }
 .item--ioq .item--8Zd .item--FeF .item--ZQ3 .item--mAf .item--38B .group-18-ds5 {
   width: 2.4rem;
@@ -1556,7 +1556,7 @@ body {
   font-size: 2rem;
   font-weight: 500;
   line-height: 1.2575;
-  color: #c53720;
+  color: var(--red);
   font-family: Geometria, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
@@ -1677,7 +1677,7 @@ body {
   height: 100%;
   position: relative;
   overflow: hidden;
-  border: solid 0.4rem #c53720;
+  border: solid 0.4rem var(--red);
   box-sizing: border-box;
   background-color: #ffffff;
   flex-shrink: 0;
@@ -1725,10 +1725,10 @@ body {
   font-size: 1.4rem;
   font-weight: 700;
   line-height: 1.2575;
-  color: #c53720;
+  color: var(--red);
   font-family: Geometria, 'Source Sans Pro';
   white-space: nowrap;
-  border: solid 0.4rem #c53720;
+  border: solid 0.4rem var(--red);
   box-sizing: border-box;
   flex-shrink: 0;
 }
@@ -1872,7 +1872,7 @@ body {
   overflow: hidden;
   border: solid 0.4rem var(--red);
   box-sizing: border-box;
-  background-color: #c53720;
+  background-color: var(--red);
   flex-shrink: 0;
 }
 .item--ioq .item--8Zd .item--FeF .auto-group-5ndm-xCX .hover-HG3 .auto-group-2zip-S6K .item--dAo .ellipse-4-kmD {
@@ -1962,7 +1962,7 @@ body {
   color: #ffffff;
   font-family: Geometria, 'Source Sans Pro';
   white-space: nowrap;
-  background-color: #c53720;
+  background-color: var(--red);
   flex-shrink: 0;
 }
 .item--ioq .item--8Zd .item--FeF .auto-group-5ndm-xCX .hover-5aX .frame-1-e1M {
@@ -2106,7 +2106,7 @@ body {
   height: 100%;
   overflow: hidden;
   position: relative;
-  border: solid 0.4rem #c53720;
+  border: solid 0.4rem var(--red);
   background-color: #ffffff;
   flex-shrink: 0;
 }
@@ -2127,10 +2127,10 @@ body {
   font-size: 1.4rem;
   font-weight: 700;
   line-height: 1.2575;
-  color: #c53720;
+  color: var(--red);
   font-family: Geometria, 'Source Sans Pro';
   white-space: nowrap;
-  border: solid 0.4rem #c53720;
+  border: solid 0.4rem var(--red);
   box-sizing: border-box;
   flex-shrink: 0;
 }
@@ -2170,7 +2170,7 @@ body {
   font-size: 2rem;
   font-weight: 500;
   line-height: 1.2575;
-  color: #c53720;
+  color: var(--red);
   font-family: Geometria, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
@@ -2486,7 +2486,7 @@ body {
   overflow: hidden;
   border: solid 0.4rem ;
   box-sizing: border-box;
-  background-color: #c53720;
+  background-color: var(--red);
   flex-shrink: 0;
 }
 .item--ioq .item--8Zd .item--FeF .auto-group-xssj-8Rd .hover-tgw .auto-group-lmdr-oWP .item--ndD .ellipse-4-7vP {
@@ -2559,7 +2559,7 @@ body {
   align-items: center;
   display: flex;
   flex-direction: column;
-  border: solid 0.4rem #c53720;
+  border: solid 0.4rem var(--red);
   background-color: #ffffff;
   flex-shrink: 0;
 }
@@ -2576,7 +2576,7 @@ body {
   color: #ffffff;
   font-family: Geometria, 'Source Sans Pro';
   white-space: nowrap;
-  background-color: #c53720;
+  background-color: var(--red);
   flex-shrink: 0;
 }
 .item--ioq .item--8Zd .item--FeF .auto-group-xssj-8Rd .hover-qNX .frame-1-CMV {
@@ -2720,7 +2720,7 @@ body {
   height: 100%;
   overflow: hidden;
   position: relative;
-  border: solid 0.4rem #c53720;
+  border: solid 0.4rem var(--red);
   background-color: #ffffff;
   flex-shrink: 0;
 }
@@ -2741,7 +2741,7 @@ body {
   font-size: 1.4rem;
   font-weight: 700;
   line-height: 1.2575;
-  color: #c53720;
+  color: var(--red);
   font-family: Geometria, 'Source Sans Pro';
   white-space: nowrap;
   border: solid 0.4rem var(--red);
@@ -3396,10 +3396,10 @@ body {
   font-size: 1.4rem;
   font-weight: 700;
   line-height: 1.2575;
-  color: #c53720;
+  color: var(--red);
   font-family: Geometria, 'Source Sans Pro';
   white-space: nowrap;
-  border: solid 0.4rem #c53720;
+  border: solid 0.4rem var(--red);
   box-sizing: border-box;
   flex-shrink: 0;
 }
@@ -3409,7 +3409,7 @@ body {
   height: 100%;
   overflow: hidden;
   position: relative;
-  border: solid 0.4rem #c53720;
+  border: solid 0.4rem var(--red);
   background-color: #ffffff;
   flex-shrink: 0;
 }
@@ -3429,7 +3429,7 @@ body {
   font-size: 1.4rem;
   font-weight: 700;
   line-height: 1.2575;
-  color: #c53720;
+  color: var(--red);
   font-family: Geometria, 'Source Sans Pro';
   white-space: nowrap;
   border: solid 0.4rem var(--red);
@@ -3650,9 +3650,9 @@ body {
   color: #ffffff;
   font-family: Geometria, 'Source Sans Pro';
   white-space: nowrap;
-  border: solid 0.4rem #c53720;
+  border: solid 0.4rem var(--red);
   box-sizing: border-box;
-  background-color: #c53720;
+  background-color: var(--red);
   flex-shrink: 0;
 }
 .item--ioq .item--i6j .item--3eo .item--bgK .auto-group-psuf-MHH .hover-gKZ .auto-group-6xu1-pJb .auto-group-ka6b-JmV .item--6ST {
@@ -3660,9 +3660,9 @@ body {
   height: 100%;
   position: relative;
   overflow: hidden;
-  border: solid 0.4rem #c53720;
+  border: solid 0.4rem var(--red);
   box-sizing: border-box;
-  background-color: #c53720;
+  background-color: var(--red);
   flex-shrink: 0;
 }
 .item--ioq .item--i6j .item--3eo .item--bgK .auto-group-psuf-MHH .hover-gKZ .auto-group-6xu1-pJb .auto-group-ka6b-JmV .item--6ST .group-2-9Qj {
@@ -3954,7 +3954,7 @@ body {
   height: 100%;
   overflow: hidden;
   position: relative;
-  border: solid 0.4rem #c53720;
+  border: solid 0.4rem var(--red);
   background-color: #ffffff;
   flex-shrink: 0;
 }
@@ -3974,10 +3974,10 @@ body {
   font-size: 1.4rem;
   font-weight: 700;
   line-height: 1.2575;
-  color: #c53720;
+  color: var(--red);
   font-family: Geometria, 'Source Sans Pro';
   white-space: nowrap;
-  border: solid 0.4rem #c53720;
+  border: solid 0.4rem var(--red);
   box-sizing: border-box;
 }
 .item--ioq .item--i6j .item--3eo .item--bgK .item--wc3 {

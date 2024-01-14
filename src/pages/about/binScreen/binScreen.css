@@ -449,7 +449,7 @@ body {
   font-size: 1.2rem;
   font-weight: 700;
   line-height: 1.2575;
-  color: #c53720;
+  color: var(--red);
   font-family: Geometria, 'Source Sans Pro';
   white-space: nowrap;
   border: solid 0.4rem var(--red);
@@ -530,7 +530,7 @@ body {
   font-size: 1.2rem;
   font-weight: 700;
   line-height: 1.2575;
-  color: #c53720;
+  color: var(--red);
   font-family: Geometria, 'Source Sans Pro';
   white-space: nowrap;
   border: solid 0.4rem var(--red);
