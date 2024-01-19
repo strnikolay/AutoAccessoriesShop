@@ -3,7 +3,7 @@ import MainFirstScreen from "./scr1/screen1";
 import {Header} from "../../components/header/header"
 import MainSecondScreen from "./scr2/screen2";
 import MainThirdScreen from "./scr3/screen3";
-import MainFourScreen from "./scr4_about/about";
+import About from "./scr4_about/about";
 
 import MainFooter from "../../components/footer/footer";
 import ScrollButton from "../../components/scrollto/scrollbutton";
@@ -28,7 +28,7 @@ return(
 
 <MainSecondScreen/>
 <MainThirdScreen/>
-<MainFourScreen />
+<About />
 
 {/*<VertGoodCard />*/}
 

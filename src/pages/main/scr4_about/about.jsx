@@ -1,7 +1,7 @@
 import "./about.css"
 
 
-function MainFourScreen () {
+function About () {
 
 return(
   
@@ -41,4 +41,4 @@ return(
 
 )}
 
-export default MainFourScreen;   
+export default About;   
