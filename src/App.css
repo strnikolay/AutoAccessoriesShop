@@ -7,7 +7,7 @@
 #root{
   width: 100vw;
   margin: 0 auto;
-  background-color: #fff;
+  --black: #000;
   --red : #c53720;
 }
 

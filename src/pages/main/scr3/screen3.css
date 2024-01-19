@@ -28,8 +28,8 @@
   text-transform: uppercase;
   white-space: nowrap;
   margin-bottom: 0.5rem;
-  border-bottom: 6px solid var(--red);
-  padding-bottom: 10px;
+  border-bottom: 0.6rem solid var(--red);
+  padding-bottom: 1rem;
 }
 .screen3-wrapper .title-subtext {
   max-width: 54.5rem;

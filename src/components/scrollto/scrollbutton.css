@@ -1,14 +1,14 @@
 .buttonwrapper{
     position: fixed;
-    right: 10px;
-    bottom: 20px;
+    right: 1rem;
+    bottom: 2rem;
     display: flex;
     flex-direction: column;
 }
 
 .buttonwrapper button{
-    width: 51px;
-    height: 51px;
+    width: 5.1rem;
+    height: 5.1rem;
 }
 
 .up{
