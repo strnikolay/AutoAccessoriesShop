@@ -1,4 +1,4 @@
-import "./screen2.css"
+import "./MainCatalogScreen.css"
 
 
 function MainCatalogScreen () {

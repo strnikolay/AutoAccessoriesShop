@@ -1,7 +1,7 @@
 
 /*import {Header} from "../../components/header/header"*/
 
-import LeftCatalogMenu from "../../components/left-Catalog-Menu/left-Catalog-Menu";
+import LeftCatalogMenu from "./left-Catalog-Menu/left-Catalog-Menu";
 
 
 function Catalog () {

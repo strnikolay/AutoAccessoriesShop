@@ -1,4 +1,4 @@
-import "./screen3.css"
+import "./MainServiceScreen.css"
 import ico1 from "./img/icon 1.png"
 import ico2 from "./img/icon 2.png"
 import ico3 from "./img/icon 3.png"

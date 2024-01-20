@@ -1,5 +1,5 @@
 import React from "react";
-import "./screen1.css"
+import "./MainFirstScreen.css"
 import Button from "../../../components/button/button";
 import Blok2  from "./blok";
 
