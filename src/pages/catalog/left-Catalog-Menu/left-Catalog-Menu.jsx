@@ -2,7 +2,7 @@ import React from "react";
 import "./left-Catalog-Menu.css"
 import {BrandItem} from "./brand-Item";
 import arrow from "./arrow.svg"
-import DB from "../../db"
+import DB from "../../../db"
 
 function LeftCatalogMenu () {
   //const [isActive, setIsActive] = React.useState("");
