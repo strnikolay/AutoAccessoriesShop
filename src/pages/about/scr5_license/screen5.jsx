@@ -1,6 +1,6 @@
 import "./screen5.css"
 
-function MainThirdScreen () {
+function License () {
 
 return(
   <div className="screen3">
@@ -80,4 +80,4 @@ return(
 
 )}
 
-export default MainThirdScreen;   
+export default License;   
