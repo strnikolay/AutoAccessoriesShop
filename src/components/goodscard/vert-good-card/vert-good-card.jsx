@@ -1,6 +1,6 @@
 import "./vert-good-card.css"
 import magnum from "./magnum-60ah.png"
-import GoodCounter from "../good-counter/good-counter";
+import GoodCounter from "../../good-counter/good-counter";
 
 function VertGoodCard() {
 return(
