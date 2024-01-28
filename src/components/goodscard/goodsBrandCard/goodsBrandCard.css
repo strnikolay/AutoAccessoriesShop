@@ -23,7 +23,7 @@ input {
 }
 body {
   width: 36rem;
-}.item--oZy {
+}.brand-card-wrapper {
   box-sizing: border-box;
   padding-top: 2rem;
   width: 100%;
@@ -34,7 +34,7 @@ body {
   flex-direction: column;
   background-color: #ffffff;
 }
-.item--oZy .magnum-1-6JB {
+.brand-card-wrapper .brand-card-img {
   margin-bottom: 2rem;
   width: 14.4rem;
   height: 14.4rem;
@@ -42,7 +42,7 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.item--oZy .auto-group-awjr-DNo {
+.brand-card-wrapper .auto-group-awjr-DNo {
   box-sizing: border-box;
   padding: 2rem 1.2rem;
   width: 100%;
@@ -51,7 +51,7 @@ body {
   background-color: #1c1c1c;
   flex-shrink: 0;
 }
-.item--oZy .auto-group-awjr-DNo .magnum-LiK {
+.brand-card-wrapper .auto-group-awjr-DNo .magnum-LiK {
   margin-bottom: 1.1rem;
   font-size: 1.6rem;
   font-weight: 700;
@@ -61,7 +61,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.item--oZy .auto-group-awjr-DNo .item--fEo {
+.brand-card-wrapper .auto-group-awjr-DNo .item--fEo {
   margin-bottom: 4.4rem;
   font-size: 1.2rem;
   font-weight: 500;
@@ -71,7 +71,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.item--oZy .auto-group-awjr-DNo .button-76o {
+.brand-card-wrapper .auto-group-awjr-DNo .button-76o {
   width: 12rem;
   height: 4rem;
   display: flex;
